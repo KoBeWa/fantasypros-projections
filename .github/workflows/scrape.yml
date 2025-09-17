@@ -1,0 +1,50 @@
+name: Daily FantasyPros Projections
+
+on:
+  schedule:
+    - cron: "5 5 * * *"   # TÄGLICH 05:05 UTC = 07:05 in Berlin (Sommerzeit)
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Optional: explizite NFL-Week (1..18)"
+        required: false
+        default: ""
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # erlaubt dem Ablauf, Dateien ins Repo zu speichern
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas beautifulsoup4 lxml requests
+
+      - name: Run scraper
+        env:
+          WEEK: ${{ github.event.inputs.week }}   # bleibt leer, außer du gibst beim manuellen Start eine Zahl ein
+        run: |
+          YEAR=$(date +%Y)
+          python scraper/fetch_projections.py --outdir data --year "${YEAR}"
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "update projections ($(date -u +'%Y-%m-%d %H:%MZ'))"
+            git push
+          else
+            echo "No changes."
+          fi
