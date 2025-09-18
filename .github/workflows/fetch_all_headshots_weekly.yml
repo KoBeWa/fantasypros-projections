@@ -1,0 +1,41 @@
+name: Weekly ALL Sleeper Headshots
+
+on:
+  schedule:
+    - cron: "30 5 * * 5"   # jeden Freitag 05:30 UTC = 07:30 Berlin (Sommerzeit), 06:30 (Winter)
+  workflow_dispatch: {}     # manueller Start möglich
+
+jobs:
+  fetch_all:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Download ALL headshots (QB/RB/WR/TE/K)
+        run: |
+          python tools/fetch_all_headshots.py
+
+      - name: Commit & push new images
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "weekly: refresh ALL headshots (QB/RB/WR/TE/K) $(date -u +'%Y-%m-%d %H:%MZ')"
+            git push
+          else
+            echo "No changes."
+          fi
