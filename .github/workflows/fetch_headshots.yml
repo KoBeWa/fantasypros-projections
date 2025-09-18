@@ -1,0 +1,39 @@
+name: Fetch Sleeper Headshots (one-off)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run once (download headshots for Top-50 per position)
+        run: |
+          python tools/fetch_headshots_once.py
+
+      - name: Commit & push images
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "add Sleeper headshots (Top-50 per position)"
+            git push
+          else
+            echo "No changes."
+          fi
