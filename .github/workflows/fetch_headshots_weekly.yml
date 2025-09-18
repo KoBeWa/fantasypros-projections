@@ -1,0 +1,41 @@
+name: Weekly Sleeper Headshots (Top-50)
+
+on:
+  schedule:
+    - cron: "15 5 * * 5"   # jeden Freitag 05:15 UTC = 07:15 Berlin (Sommerzeit), 06:15 (Winter)
+  workflow_dispatch: {}     # manueller Start möglich
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Download headshots for Top-50 per position
+        run: |
+          python tools/fetch_headshots_once.py
+
+      - name: Commit & push images
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "weekly: refresh Sleeper headshots (Top-50) $(date -u +'%Y-%m-%d %H:%MZ')"
+            git push
+          else
+            echo "No changes."
+          fi
