@@ -2,10 +2,47 @@
 import os, json, re, pathlib, requests, pandas as pd
 from collections import Counter
 from unidecode import unidecode
+from datetime import datetime
 
-# === Einstellungen ============================================================
-# Passe Jahr/Woche an, falls du NICHT "week_current" verwenden willst
-DATA_DIR = pathlib.Path("data/2025/week_current")
+# === Auto: neueste Datenwoche finden =========================================
+def find_latest_week_dir(base="data") -> pathlib.Path:
+    base = pathlib.Path(base)
+    if not base.exists():
+        raise SystemExit(f"[ERR ] Basisordner fehlt: {base}")
+
+    # 1) neuestes Jahr im data/-Ordner wählen (numerische Unterordner)
+    year_dirs = [d for d in base.iterdir() if d.is_dir() and d.name.isdigit()]
+    if not year_dirs:
+        raise SystemExit(f"[ERR ] Kein Jahresordner unter {base}/ gefunden.")
+    latest_year = max(year_dirs, key=lambda p: int(p.name))
+
+    # 2) innerhalb des Jahres die höchste week_XX nehmen – falls vorhanden
+    week_dirs = []
+    for d in latest_year.iterdir():
+        if d.is_dir() and d.name.startswith("week_"):
+            try:
+                n = int(d.name.split("_", 1)[1])
+                week_dirs.append((n, d))
+            except Exception:
+                pass
+
+    if week_dirs:
+        # höchste vorhandene Week
+        _, latest_week_dir = max(week_dirs, key=lambda t: t[0])
+        return latest_week_dir
+
+    # 3) Fallback: week_current
+    wc = latest_year / "week_current"
+    if wc.exists():
+        return wc
+
+    raise SystemExit(f"[ERR ] Keine Woche gefunden in {latest_year}/ (weder week_XX noch week_current).")
+
+DATA_DIR = find_latest_week_dir("data")
+
+OUT_DIR  = pathlib.Path("assets/players")
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
 POS_FILES = {
     "QB": DATA_DIR/"qb.csv",
     "RB": DATA_DIR/"rb.csv",
@@ -14,34 +51,24 @@ POS_FILES = {
     "K":  DATA_DIR/"k.csv",
     "DST":DATA_DIR/"dst.csv",
 }
-OUT_DIR  = pathlib.Path("assets/players")
-OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # === Hilfsfunktionen: Normalisierung =========================================
 def norm_text(s: str) -> str:
-    """kleinschreiben, Akzente & Sonderzeichen raus, Whitespace trimmen"""
     s = unidecode(s or "").lower().strip()
     s = re.sub(r"\s+", " ", s)
     return s
 
 def norm_col(c) -> str:
-    """Spaltennamen robust normalisieren (egal ob Tuple-String etc.)."""
     c = str(c)
-    # Klammern, Quotes, Kommata, Doppelleerzeichen entfernen
     c = c.replace('"', "'")
     c = re.sub(r"[\(\)]", " ", c)
     c = c.replace(",", " ")
     c = re.sub(r"\s+", " ", c)
     return norm_text(c)
 
-TEAM_SUFFIX_RE = re.compile(r"\s+\(?([A-Z]{2,3})\)?$")  # " BUF" oder "(BUF)" am Ende
+TEAM_SUFFIX_RE = re.compile(r"\s+\(?([A-Z]{2,3})\)?$")  # " BUF" oder "(BUF)"
 
 def extract_clean_player_name(row, player_col: str) -> str:
-    """
-    Holt einen sauberen Spielernamen aus der CSV-Zeile:
-    - nimmt die erkannte Player-Spalte
-    - entfernt Team-Suffix am Ende (BUF / (BUF))
-    """
     raw = row.get(player_col)
     if not isinstance(raw, str) or not raw.strip():
         return ""
@@ -70,7 +97,6 @@ def guess_pid(player_name: str):
     if hits: return hits[0]
     hits = index_lastfirst.get(name_n)
     if hits: return hits[0]
-    # Suffixe entfernen (Jr., Sr., II, III, IV) und erneut probieren
     cleaned = re.sub(r"\b(jr|sr|ii|iii|iv)\b\.?", "", player_name, flags=re.I).strip()
     if cleaned != player_name:
         return guess_pid(cleaned)
@@ -78,31 +104,20 @@ def guess_pid(player_name: str):
 
 # === CSV lesen: Spalten automatisch erkennen =================================
 def read_csv_and_detect_columns(path: pathlib.Path):
-    """
-    Liest die CSV und gibt zurück:
-    - df: DataFrame
-    - player_col: tatsächlicher Spaltenname für "Player/Defense (DST)"
-    - fpts_col: tatsächlicher Spaltenname für FPTS
-    """
     df = pd.read_csv(path)
-
-    # Karte: normalisierte Spalten -> originale Spaltennamen
     col_map = {norm_col(c): c for c in df.columns}
 
-    # Player-Spalte finden
     player_col = None
-    # Kandidaten nach Priorität
     player_candidates = [
-        "player",                        # normaler Name
-        "unnamed: 0_level_0 player",     # dein Multi-Index-Fall als String
-        "defense dst",                   # DST Headline
-        "defense (dst)",                 # falls Klammern erhalten blieben
+        "player",
+        "unnamed: 0_level_0 player",
+        "defense dst",
+        "defense (dst)",
     ]
     for cand in player_candidates:
         if cand in col_map:
             player_col = col_map[cand]
             break
-    # Fallback: nimm die erste Spalte, die "player" enthält
     if player_col is None:
         for nc, oc in col_map.items():
             if "player" in nc:
@@ -111,7 +126,6 @@ def read_csv_and_detect_columns(path: pathlib.Path):
     if player_col is None:
         raise RuntimeError("Konnte keine Player-Spalte erkennen.")
 
-    # FPTS-Spalte finden (enthält 'fpts')
     fpts_col = None
     for nc, oc in col_map.items():
         if "fpts" in nc:
@@ -124,11 +138,9 @@ def read_csv_and_detect_columns(path: pathlib.Path):
 
 def top50_from_csv(path: pathlib.Path) -> tuple[pd.DataFrame, str]:
     df, player_col, fpts_col = read_csv_and_detect_columns(path)
-    # nach FPTS sortieren, Top-50
     try:
         df = df.sort_values(fpts_col, ascending=False)
     except Exception:
-        # falls FPTS als Text – in Zahl konvertieren
         df[fpts_col] = pd.to_numeric(df[fpts_col], errors="coerce")
         df = df.sort_values(fpts_col, ascending=False)
     return df.head(50), player_col
@@ -142,8 +154,9 @@ def try_download(url: str, dest: pathlib.Path) -> bool:
         return True
     return False
 
-# === Hauptlogik: je Position Top-50 matchen & Bild holen =====================
+# === Hauptlogik ===============================================================
 stats = Counter()
+print(f"[INFO] Nutze Daten aus: {DATA_DIR}")
 
 for pos, csv_path in POS_FILES.items():
     if not csv_path.exists():
@@ -151,7 +164,6 @@ for pos, csv_path in POS_FILES.items():
         continue
 
     print(f"[INFO] {pos}: lese {csv_path.name}")
-    df, player_col = None, None
     try:
         df, player_col = top50_from_csv(csv_path)
     except Exception as e:
@@ -166,7 +178,6 @@ for pos, csv_path in POS_FILES.items():
 
         pid = guess_pid(name)
         if not pid and pos == "DST":
-            # Bei DST optional: Team probieren
             t = row.get("team")
             if isinstance(t, str) and t:
                 pid = guess_pid(t)
@@ -176,13 +187,11 @@ for pos, csv_path in POS_FILES.items():
             stats[f"miss_{pos}"] += 1
             continue
 
-        # schon vorhanden? dann überspringen
         out_jpg = OUT_DIR/pos/ f"{pid}.jpg"
         out_png = out_jpg.with_suffix(".png")
         if out_jpg.exists() or out_png.exists():
             continue
 
-        # Sleeper-CDN: erst .jpg, dann .png probieren
         url_jpg = f"https://sleepercdn.com/content/nfl/players/{pid}.jpg"
         url_png = f"https://sleepercdn.com/content/nfl/players/{pid}.png"
         ok = try_download(url_jpg, out_jpg)
@@ -194,11 +203,10 @@ for pos, csv_path in POS_FILES.items():
             print(f"[FAIL] {pos:<3}  {name}  ->  {pid} (kein Bild gefunden)")
             stats[f"miss_{pos}"] += 1
 
-# === Zusammenfassung =========================================================
 print("\n[SUMMARY]")
 for pos in POS_FILES.keys():
     seen = stats.get(f"seen_{pos}", 0)
     miss = stats.get(f"miss_{pos}", 0)
     print(f"{pos}: gesehen={seen}, verfehlt={miss}, Treffer={seen - miss}")
-
 print("\nFertig.")
+
