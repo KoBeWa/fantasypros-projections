@@ -1,7 +1,7 @@
 import { OpenAI } from "openai";
 import fs from "fs/promises";
 import {
-  getLeague, getMatchups, getNflState, getRosters, getUsers
+  getLeague, getMatchups, getNflState, getRosters, getUsers, getPlayersMap
 } from "./sleeper.js";
 import { systemPrompt, userPrompt } from "./prompt.js";
 import { wrapAsMarkdown } from "./markdown.js";
