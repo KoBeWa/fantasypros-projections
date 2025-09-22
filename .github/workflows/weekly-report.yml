@@ -7,7 +7,7 @@ on:
         description: "NFL Woche (leer = aktuelle Woche)"
         required: false
   schedule:
-    - cron: "30 6 * * 2"  # dienstags 06:30 UTC ~ dienstags morgens CET/CET
+    - cron: "30 6 * * 2"  # dienstags 06:30 UTC
 
 jobs:
   build:
@@ -21,14 +21,13 @@ jobs:
 
       - name: Use Node
         uses: actions/setup-node@v4
+      # Wichtig: kein npm ci (du hast noch kein Lockfile)
         with:
           node-version: "20"
+          cache: "npm"
 
       - name: Install deps
-        run: npm ci
-
-      - name: Build
-        run: npm run build
+        run: npm install --no-audit --no-fund
 
       - name: Run weekly report
         env:
