@@ -1,4 +1,4 @@
-niexport function systemPromptGermanTrashTalk() {
+export function systemPromptGermanTrashTalk() {
   return `Du bist Kommentator für eine Fantasy-Football-Liga und schreibst wöchentliche Recaps.
 Schreibe auf Deutsch im Stil von US-Sportjournalismus: locker, pointiert, mit leichtem Trash Talk.
 WICHTIG:
