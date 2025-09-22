@@ -1,30 +1,22 @@
 import { OpenAI } from "openai";
 import fs from "fs/promises";
-import { getLeague, getMatchups, getNflState, getRosters, getUsers } from "./sleeper.js";
+import {
+  getLeague, getMatchups, getNflState, getRosters, getUsers
+} from "./sleeper.js";
 import { systemPrompt, userPrompt } from "./prompt.js";
 import { wrapAsMarkdown } from "./markdown.js";
 
-type Env = {
-  OPENAI_API_KEY: string;
-  SLEEPER_LEAGUE_ID: string;
-  WEEK?: string;
-  LANGUAGE?: "de" | "en";
-  TONE?: "neutral" | "witzig" | "trash";
-  OUTPUT_DIR?: string;
-};
-
-function ensureEnv(): Env {
-  const e = process.env as unknown as Env;
-  if (!e.OPENAI_API_KEY) throw new Error("OPENAI_API_KEY is missing");
-  if (!e.SLEEPER_LEAGUE_ID) throw new Error("SLEEPER_LEAGUE_ID is missing");
-  return e;
+function ensureEnv() {
+  const { OPENAI_API_KEY, SLEEPER_LEAGUE_ID, WEEK, LANGUAGE, TONE, OUTPUT_DIR } = process.env;
+  if (!OPENAI_API_KEY) throw new Error("OPENAI_API_KEY is missing");
+  if (!SLEEPER_LEAGUE_ID) throw new Error("SLEEPER_LEAGUE_ID is missing");
+  return { OPENAI_API_KEY, SLEEPER_LEAGUE_ID, WEEK, LANGUAGE, TONE, OUTPUT_DIR };
 }
 
-function rosterOwnerMap(users: any[], rosters: any[]) {
-  const userMap = new Map<string, any>();
+function rosterOwnerMap(users, rosters) {
+  const userMap = new Map();
   users.forEach(u => userMap.set(u.user_id, u));
-
-  const ownerByRoster = new Map<number, { displayName: string }>();
+  const ownerByRoster = new Map();
   rosters.forEach(r => {
     const u = userMap.get(r.owner_id);
     ownerByRoster.set(r.roster_id, { displayName: u?.display_name ?? "Unknown" });
@@ -32,34 +24,21 @@ function rosterOwnerMap(users: any[], rosters: any[]) {
   return ownerByRoster;
 }
 
-function groupMatchups(raw: any[]) {
-  // Sleeper liefert ein "matchup_id"; gleiche ID bilden ein Pair
-  const byId = new Map<number, any[]>();
+function groupMatchups(raw) {
+  const byId = new Map();
   raw.forEach(m => {
     const id = m.matchup_id;
     if (!byId.has(id)) byId.set(id, []);
-    byId.get(id)!.push(m);
+    byId.get(id).push(m);
   });
   return [...byId.values()];
 }
 
-function startersToNames(starters: string[] | null | undefined, players: Record<string,string>): string[] {
-  if (!starters) return [];
-  return starters.map(pid => players[pid]).filter(Boolean);
-}
-
-// Optional: mappe Top-Spieler (einfach: die scoring leaders in lineup)
-function topPlayers(m: any, players: Record<string,string>): string[] {
+function topPlayers(m) {
   if (!m?.players_points) return [];
-  const entries = Object.entries(m.players_points) as Array<[string, number]>;
-  const top = entries.sort((a,b)=>b[1]-a[1]).slice(0,3);
-  return top.map(([pid, pts]) => `${players[pid] ?? pid} (${pts.toFixed(1)})`);
-}
-
-async function fetchPlayersMap(): Promise<Record<string,string>> {
-  // Minimale Variante: Nur Namen aus Sleeper players bulk ist groß – wir verzichten hier,
-  // und nutzen "metadata.player_name" sofern vorhanden; Fallback ist ID.
-  return {};
+  const entries = Object.entries(m.players_points);
+  entries.sort((a,b)=>b[1]-a[1]);
+  return entries.slice(0,3).map(([pid, pts]) => `${pid} (${Number(pts).toFixed(1)})`);
 }
 
 async function main() {
@@ -74,43 +53,31 @@ async function main() {
   const ownerMap = rosterOwnerMap(users, rosters);
   const matchupsRaw = await getMatchups(env.SLEEPER_LEAGUE_ID, targetWeek);
 
-  // Players mapping (leichtgewichtig – Sleeper liefert in matchups oft metadata)
-  const playersById: Record<string,string> = {};
-
   const grouped = groupMatchups(matchupsRaw);
 
   const matchupPayload = grouped.map(group => {
-    // zwei Einträge: je Team
     const [a,b] = group;
-    const A = a; const B = b;
-    // Heuristik: Home/Away via roster_id sortieren
-    const home = (A.roster_id ?? 0) <= (B?.roster_id ?? 999) ? A : B;
-    const away = home === A ? B : A;
+    const home = (a.roster_id ?? 0) <= (b?.roster_id ?? 999) ? a : b;
+    const away = home === a ? b : a;
 
     const homeOwner = ownerMap.get(home.roster_id)?.displayName ?? "Unknown";
     const awayOwner = ownerMap.get(away.roster_id)?.displayName ?? "Unknown";
 
-    const toName = (pid: string) => playersById[pid] ?? pid;
-    const startersHome = (home.starters ?? []).map(toName);
-    const startersAway = (away.starters ?? []).map(toName);
-
-    const topHome = topPlayers(home, playersById);
-    const topAway = topPlayers(away, playersById);
-
+    const startersNames = s => (s || []).map(pid => pid); // optional: später echte Namen mappen
     return {
       home: {
         teamName: home.metadata?.team_name || `Team ${home.roster_id}`,
         owner: homeOwner,
         points: Number(home.points ?? 0),
-        starters: startersHome,
-        top: topHome
+        starters: startersNames(home.starters),
+        top: topPlayers(home)
       },
       away: {
         teamName: away?.metadata?.team_name || `Team ${away?.roster_id}`,
         owner: awayOwner,
         points: Number(away?.points ?? 0),
-        starters: startersAway,
-        top: topAway
+        starters: startersNames(away?.starters),
+        top: topPlayers(away)
       }
     };
   });
@@ -132,7 +99,7 @@ async function main() {
     ]
   });
 
-  const text = completion.choices[0].message.content ?? "";
+  const text = completion.choices?.[0]?.message?.content ?? "";
   const md = wrapAsMarkdown(targetWeek, text);
 
   const outDir = env.OUTPUT_DIR || "reports";
