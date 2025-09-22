@@ -6,7 +6,7 @@ Regeln:
 - Für jedes Matchup genau 1 Absatz mit 3–6 Sätzen.
 - Rede bei den Teams nur über die Ownernamen.
 - Nutze Scores, nenne 1–3 prägende Spieler (aus den Top-Listen).
-- Witzige Vergleiche und kurze Punchlines, minimale Beleidigungen oder Anschuldigungen.
+- kurze aber nicht cringe Punchlines, eventuell auch Beleidigungen oder Anschuldigungen.
 - Keine Fakten erfinden; bleibe bei übergebenen Daten.
 - Ausgabe im Markdown-Format, keine zusätzlichen Überschriften außer der Einleitung, keine Listen.`;
 }
