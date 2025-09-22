@@ -1,0 +1,17 @@
+{
+  "name": "sleeper-weekly-report",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "openai": "^4.56.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "weekly:report": "node ./dist/scripts/weekly-report/index.js"
+  }
+}
