@@ -1,34 +1,50 @@
 export function systemPromptGermanTrashTalk() {
-  return `Du bist ein Fantasy-Football-Kommentator und schreibst wöchentliche Recaps.
-Schreibe auf Deutsch im Stil von US-Sport-Journalismus: locker, humorvoll, mit Trash Talk.
-Regeln:
-- Beginne mit 1–2 kurzen einleitenden Sätzen zur Woche (z. B. "Woche X ist vorbei – und manche Teams suchen schon Ausreden.").
-- Für jedes Matchup genau 1 Absatz mit 3–6 Sätzen.
-- Rede bei den Teams nur über die Ownernamen.
-- Nutze Scores, nenne 1–3 prägende Spieler (aus den Top-Listen).
-- kurze aber nicht cringe Punchlines, eventuell auch Beleidigungen oder Anschuldigungen.
-- Keine Fakten erfinden; bleibe bei übergebenen Daten.
-- Ausgabe im Markdown-Format, keine zusätzlichen Überschriften außer der Einleitung, keine Listen.`;
+  return `Du bist Kommentator für eine Fantasy-Football-Liga und schreibst wöchentliche Recaps.
+Schreibe auf Deutsch im Stil von US-Sportjournalismus: locker, pointiert, mit leichtem Trash Talk.
+WICHTIG:
+- Sprich in der Erzählung ausschließlich über die OWNER (z. B. "BENNI schlägt RITZ"), nicht über Teamnamen.
+- Nutze die gelieferten Scores und Top-Spieler (1–3 Namen aus den Top-Listen).
+- 1–2 Sätze Einleitung zur Woche, danach pro Matchup genau EIN Absatz mit 3–6 Sätzen.
+- Kurze, clevere Punchlines sind ok; vermeide persönliche Beleidigungen, Unterstellungen oder toxische Sprache.
+- Keine Fakten erfinden – bleibe bei den übergebenen Daten.
+- Ausgabe im Markdown-Format: Einleitung + Absätze, KEINE zusätzlichen Überschriften oder Listen.`;
 }
 
 export function userPromptGermanTrashTalk(payload) {
-  const { leagueName, season, week, matchups } = payload;
+  const { leagueName = "", season = "", week = "", matchups = [] } = payload || {};
   const L = [];
 
   L.push(`Liga: ${leagueName}`);
   L.push(`Saison: ${season}`);
   L.push(`Woche: ${week}`);
   L.push(``);
-  L.push(`Matchups (verwende die Pretty-Owner-Namen so wie übergeben):`);
+  L.push(
+    `Matchups (verwende in der Erzählung NUR die Ownernamen wie übergeben; Teamnamen dienen nur als Kontext):`
+  );
 
-  matchups.forEach((m, i) => {
+  (matchups || []).forEach((m, i) => {
+    const h = m?.home || {};
+    const a = m?.away || {};
+
+    const homeOwner = h?.owner || "UNKNOWN";
+    const awayOwner = a?.owner || "UNKNOWN";
+
+    const homePts = Number.isFinite(h?.points) ? Number(h.points).toFixed(2) : "0.00";
+    const awayPts = Number.isFinite(a?.points) ? Number(a.points).toFixed(2) : "0.00";
+
+    const topHome = Array.isArray(h?.top) && h.top.length ? h.top.join(", ") : "-";
+    const topAway = Array.isArray(a?.top) && a.top.length ? a.top.join(", ") : "-";
+
+    // Teamnamen bleiben als Kontextzeilen drin, aber der Stil fordert "rede nur über Owner"
+    const homeTeamName = h?.teamName || "Team ?";
+    const awayTeamName = a?.teamName || "Team ?";
+
     L.push(
       `Matchup #${i + 1}`,
-      `Home: **${m.home.teamName}** (${m.home.owner}) – ${m.home.points.toFixed(2)} Punkte`,
-      `Top Home: ${m.home.top.join(", ") || "-"}`,
-      `vs.`,
-      `Away: **${m.away.teamName}** (${m.away.owner}) – ${m.away.points.toFixed(2)} Punkte`,
-      `Top Away: ${m.away.top.join(", ") || "-"}`,
+      `Kontext: ${homeTeamName} (${homeOwner}) vs. ${awayTeamName} (${awayOwner})`,
+      `Score: ${homeOwner} ${homePts} – ${awayOwner} ${awayPts}`,
+      `Top bei ${homeOwner}: ${topHome}`,
+      `Top bei ${awayOwner}: ${topAway}`,
       `---`
     );
   });
@@ -36,12 +52,13 @@ export function userPromptGermanTrashTalk(payload) {
   L.push(
     ``,
     `Aufgabe:`,
-    `- Schreibe einen kompakten Wochen-Recap in Deutsch.`,
-    `- Baue pro Matchup genau einen Absatz (3–6 Sätze) in der Reihenfolge der Matchups.`,
-    `- Style: locker, humorvoll, mit kurzen Punchlines – analog zu US-Sportartikeln.`,
-    `- Nutze Ownernamen genau wie übergeben (Owner sind bereits formatiert, z. B. "Benni").`,
-    `- Nenne prägende Spieler aus den "Top"-Zeilen im Kontext.`,
-    `- Kein zusätzlicher H2/H3-Kopf – nur Einleitung + Absätze.`
+    `- Schreibe einen kompakten Wochen-Recap auf Deutsch.`,
+    `- Einleitung (1–2 Sätze) zur Woche.`,
+    `- Danach für jedes Matchup genau EIN Absatz mit 3–6 Sätzen, in der Reihenfolge der Matchups.`,
+    `- Rede in der Erzählung NUR über die Owner (z. B. "BENNI", "SIMI"), nicht über Teamnamen.`,
+    `- Baue den Score und 1–3 prägende Spieler pro Matchup (aus den Top-Zeilen) sinnvoll ein.`,
+    `- Stil: locker, humorvoll, kurze clevere Punchlines – nicht cringe, nicht toxisch.`,
+    `- Markdown ohne zusätzliche Überschriften/Listen.`
   );
 
   return L.join("\n");
