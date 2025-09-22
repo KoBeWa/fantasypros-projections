@@ -95,8 +95,8 @@ function prettyOwnerName({ teamName, displayName, username }) {
   }
 
   // Fallback: DISPLAYNAME in CAPS (besser lesbar als Sleeper-Username)
-  if (displayName) return String(displayName).toUpperCase();
-  if (username) return String(username).toUpperCase();
+  if (displayName) return String(displayName);
+  if (username) return String(username);
   return "UNKNOWN";
 }
 
