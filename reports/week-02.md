@@ -1,27 +1,16 @@
 ---
 title: "Week 2 – Weekly Report"
-generated: "2025-09-22T11:46:48.363Z"
+generated: "2025-09-22T12:02:33.742Z"
 ---
 
-# Week 2 – Weekly Report
+Woche 2 ist vorbei – und während einige Teams sich über ihre Siege freuen, suchen andere schon nach Ausreden, warum sie verloren haben. Schauen wir uns die Highlights dieser Woche an, die mehr Drama bieten als eine Reality-Show!
 
-## Matchup #1 – Team 1 (SHAMH) vs Team 7 (JUSCHKA) (120.00 - 107.40)
-### Team 1 setzt sich mit Bravour durch!
-Team 1 hat mit einer soliden Leistung den Sieg eingefahren und zeigt, dass sie bereit sind, um die Krone zu kämpfen. Ja'Marr Chase und Baker Mayfield hatten einen starken Auftritt, während Christian McCaffrey auch nicht schlecht abschnitt. Team 7 muss sich hingegen fragen, wie sie den Auftritt ihrer Stars nicht in Punkte ummünzen konnten. Vielleicht war die Luft im Stadion zu dünn?
+Im ersten Matchup traten **Team 1** (SHAMH) und **Team 7** (JUSCHKA) gegeneinander an. SHAMH konnte mit einer soliden Leistung von Malik Nabers (28,7 Punkte) und Jonathan Taylor (27,5 Punkte) auftrumpfen, während JUSCHKA mit Ja'Marr Chase (22,5 Punkte) und Baker Mayfield (19,9 Punkte) nicht ganz mithalten konnte. Am Ende hieß es 120,00 zu 107,40 – und JUSCHKA muss sich jetzt fragen, ob er seine Spieler oder seine Ausreden besser aufstellen kann.
 
-## Matchup #2 – Team 2 (KESSO) vs Team 4 (LOSSAUSAGES) (111.58 - 76.84)
-### KESSO lässt die Wurst im Regen stehen!
-Team 2 hat Team 4 in einer regelrechten Klatsche gezeigt, wo der Hammer hängt. Bijan Robinson und Jaylen Warren waren die Lichtblicke in einem ansonsten trüben Spiel für Team 4. Joe Burrow und seine Jungs können sich jetzt schon auf die nächste Woche vorbereiten – vielleicht mit weniger Kamara und mehr Punkte? 
+Im zweiten Showdown hatte **Team 2** (KESSO) die Nase vorn und schnappte sich den Sieg gegen **Team 4** (LOSSAUSAGES) mit 111,58 zu 76,84. KESSO ließ Amon-Ra St. Brown (30,2 Punkte) glänzen, als ob er der neue Lichtblick in einer dunklen Gasse wäre. LOSSAUSAGES hingegen muss sich fragen, ob Bijan Robinson (16,8 Punkte) und Co. mehr als nur ein paar Snacks und ein fröhliches Lächeln auf dem Feld brauchen.
 
-## Matchup #3 – Team 3 (SIMON2307) vs Team 6 (JOTTAGE) (79.94 - 91.10)
-### Team 6 macht kurzen Prozess!
-In einem engen Duell hat Team 6 die Oberhand behalten. Lamar Jackson war der absolute Star und hat Team 3 das Wasser abgegraben. Doch trotz der Niederlage gab es bei Team 3 einige Lichtblicke, die darauf hinweisen, dass sie bald wieder auf die Siegerstraße zurückkehren könnten. Vielleicht sollte man den Wasserkocher für die nächste Woche anwerfen!
+Im dritten Matchup kämpften **Team 3** (SIMON2307) und **Team 6** (JOTTAGE) um die Ehre, aber der Sieg ging mit 91,10 zu 79,94 klar an JOTTAGE. Lamar Jackson (26,3 Punkte) war der Superheld, den JOTTAGE brauchte, während SIMON2307 sich mit den Rachaad White (12,6 Punkte) und Jahmyr Gibbs (16,4 Punkte) begnügen musste – das war wie ein Burger ohne Fleisch!
 
-## Matchup #4 – Team 5 (THEBIGLEBRONSKI) vs Team 8 (LANCEMOURDOCK) (97.28 - 100.52)
-### Team 8 schnappt sich den knappen Sieg!
-Was für ein Herzschlagfinale! Team 8 hat Team 5 mit einem hauchdünnen Vorsprung besiegt. James Cook und Puka Nacua haben die nötigen Punkte geliefert, um den Sieg einzufahren. Team 5 wird sich fragen, wie sie so nah dran waren und dennoch verloren haben. Ein bisschen Pech kann jedem passieren, aber das nächste Mal vielleicht einfach mehr Punkte sammeln!
+Im letzten Matchup schaffte es **Team 5** (THEBIGLEBRONSKI) nicht ganz, als **Team 8** (LANCEMOURDOCK) mit 100,52 zu 97,28 den Sieg einfuhr. James Cook (25,5 Punkte) war der Schlüsselspieler für LANCEMOURDOCK, während THEBIGLEBRONSKI mit Rome Odunze (24,8 Punkte) versuchte, das Ruder herumzureißen, aber letztendlich nur ein paar Krümel zurückließ. Vielleicht sollte er beim nächsten Mal lieber einen Zaubertrank anrühren, um seine Spieler zu motivieren!
 
-### Notable Performances
-- Ja'Marr Chase (22.5 Pts) – Team 1
-- James Cook (25.5 Pts) – Team 5
-- Lamar Jackson (26.3 Pts) – Team 3
+Das war's für diese Woche – bleibt dran für mehr spannendes Fantasy-Football-Drama!
