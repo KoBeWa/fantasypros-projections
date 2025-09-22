@@ -6,6 +6,18 @@ import {
 import { systemPrompt, userPrompt } from "./prompt.js";
 import { wrapAsMarkdown } from "./markdown.js";
 
+// Teamname (Sleeper "metadata.team_name") -> Pretty Owner Name
+const OWNER_NAME_MAP = {
+  "Dreggsverein": "BENNI",
+  "Talahon United": "SIMI",
+  "Snatchville Lubricators": "KESSI",
+  "Extrem durstige Welse": "RITZ",
+  "oG United": "ERIK",
+  "I_hate_Kowa": "TOMMY",
+  "Suckme Mourdock Network": "MARV",
+  "Juschka": "JUSCHI"
+};
+
 function ensureEnv() {
   const { OPENAI_API_KEY, SLEEPER_LEAGUE_ID, WEEK, LANGUAGE, TONE, OUTPUT_DIR } = process.env;
   if (!OPENAI_API_KEY) throw new Error("OPENAI_API_KEY is missing");
@@ -24,6 +36,12 @@ function rosterOwnerMap(users, rosters) {
   return ownerByRoster;
 }
 
+function prettyOwnerName(teamName, fallbackDisplayName) {
+  // Nimm zuerst dein Mapping, sonst den Sleeper-Displayname in Großbuchstaben
+  return OWNER_NAME_MAP[teamName] || (fallbackDisplayName ? fallbackDisplayName.toUpperCase() : "UNKNOWN");
+}
+
+
 function groupMatchups(raw) {
   const byId = new Map();
   raw.forEach(m => {
@@ -34,11 +52,14 @@ function groupMatchups(raw) {
   return [...byId.values()];
 }
 
-function topPlayers(m) {
+function topPlayers(m, playersById) {
   if (!m?.players_points) return [];
   const entries = Object.entries(m.players_points);
   entries.sort((a,b)=>b[1]-a[1]);
-  return entries.slice(0,3).map(([pid, pts]) => `${pid} (${Number(pts).toFixed(1)})`);
+  return entries.slice(0,3).map(([pid, pts]) => {
+    const name = playersById[pid] || pid;
+    return `${name} (${Number(pts).toFixed(1)})`;
+  });
 }
 
 async function main() {
@@ -52,7 +73,7 @@ async function main() {
   const rosters = await getRosters(env.SLEEPER_LEAGUE_ID);
   const ownerMap = rosterOwnerMap(users, rosters);
   const matchupsRaw = await getMatchups(env.SLEEPER_LEAGUE_ID, targetWeek);
-
+  const playersById = await getPlayersMap();
   const grouped = groupMatchups(matchupsRaw);
 
   const matchupPayload = grouped.map(group => {
@@ -60,17 +81,20 @@ async function main() {
     const home = (a.roster_id ?? 0) <= (b?.roster_id ?? 999) ? a : b;
     const away = home === a ? b : a;
 
-    const homeOwner = ownerMap.get(home.roster_id)?.displayName ?? "Unknown";
-    const awayOwner = ownerMap.get(away.roster_id)?.displayName ?? "Unknown";
-
-    const startersNames = s => (s || []).map(pid => pid); // optional: später echte Namen mappen
+    const homeTeamName = home.metadata?.team_name || `Team ${home.roster_id}`;
+    const awayTeamName = away?.metadata?.team_name || `Team ${away?.roster_id}`;
+    const homeDisplay = ownerMap.get(home.roster_id)?.displayName ?? "Unknown";
+    const awayDisplay = ownerMap.get(away.roster_id)?.displayName ?? "Unknown";
+    const homeOwner = prettyOwnerName(homeTeamName, homeDisplay);
+    const awayOwner = prettyOwnerName(awayTeamName, awayDisplay);
+    const startersNames = s => (s || []).map(pid => playersById[pid] || pid);
     return {
       home: {
-        teamName: home.metadata?.team_name || `Team ${home.roster_id}`,
+       teamName: homeTeamName,
         owner: homeOwner,
         points: Number(home.points ?? 0),
         starters: startersNames(home.starters),
-        top: topPlayers(home)
+        top: topPlayers(away, playersById)
       },
       away: {
         teamName: away?.metadata?.team_name || `Team ${away?.roster_id}`,
