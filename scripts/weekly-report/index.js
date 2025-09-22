@@ -143,33 +143,48 @@ async function main() {
   const grouped = groupMatchups(matchupsRaw);
   console.log("Matchups für Woche", targetWeek, "→", grouped.length, "Pairings");
 
-  const matchupPayload = grouped.map(group => {
+   const matchupPayload = grouped.map(group => {
     const [aRaw, bRaw] = group;
-    // Home/away Heuristik nach roster_id, aber robust bei fehlendem b
+  
+    // Home/away Heuristik nach roster_id, robust bei fehlendem b
     const home = (!bRaw || (aRaw?.roster_id ?? 0) <= (bRaw?.roster_id ?? 999999)) ? aRaw : bRaw;
     const away = home === aRaw ? bRaw : aRaw;
-
+  
     const homeTeamName = home?.metadata?.team_name || `Team ${home?.roster_id ?? "?"}`;
     const awayTeamName = away?.metadata?.team_name || (away ? `Team ${away.roster_id}` : "BYE / n/a");
-
-    const homeDisplay = ownerMap.get(home?.roster_id)?.displayName ?? "Unknown";
-    const awayDisplay = away ? (ownerMap.get(away.roster_id)?.displayName ?? "Unknown") : "Unknown";
-
-    // WICHTIG: hier dein schönes Mapping benutzen
+  
     const homeOwnerInfo = ownerMap.get(home?.roster_id) || {};
     const awayOwnerInfo = away ? (ownerMap.get(away.roster_id) || {}) : {};
-    
+  
     const homeOwner = prettyOwnerName({
-      teamName: home?.metadata?.team_name,
+      teamName: homeTeamName,
       displayName: homeOwnerInfo.displayName,
       username: homeOwnerInfo.username
     });
     const awayOwner = prettyOwnerName({
-      teamName: away?.metadata?.team_name,
+      teamName: awayTeamName,
       displayName: awayOwnerInfo.displayName,
       username: awayOwnerInfo.username
     });
+  
+    return {                     // <-- WICHTIG: jetzt wird wirklich ein Objekt zurückgegeben!
+      home: {
+        teamName: homeTeamName,
+        owner: homeOwner,
+        points: Number(home?.points ?? 0),
+        starters: startersNames(home?.starters, playersById),
+        top: topPlayers(home, playersById)
+      },
+      away: {
+        teamName: awayTeamName,
+        owner: awayOwner,
+        points: Number(away?.points ?? 0),
+        starters: startersNames(away?.starters, playersById),
+        top: topPlayers(away, playersById)
+      }
+    };
   });
+
 
   // Prompts (deutsch, witzig, kein harter Trash)
   const system = systemPromptGermanTrashTalk();
