@@ -52,12 +52,13 @@ function groupMatchups(raw) {
   return [...byId.values()];
 }
 
-function topPlayers(m, playersById) {
-  if (!m?.players_points) return [];
+function topPlayers(m, playersById = {}) {
+  if (!m?.players_points || typeof m.players_points !== "object") return [];
   const entries = Object.entries(m.players_points);
-  entries.sort((a,b)=>b[1]-a[1]);
-  return entries.slice(0,3).map(([pid, pts]) => {
-    const name = playersById[pid] || pid;
+  entries.sort((a, b) => Number(b[1]) - Number(a[1]));
+  return entries.slice(0, 3).map(([pid, pts]) => {
+    const key = String(pid);
+    const name = playersById[key] || key; // Fallback auf ID
     return `${name} (${Number(pts).toFixed(1)})`;
   });
 }
@@ -73,7 +74,13 @@ async function main() {
   const rosters = await getRosters(env.SLEEPER_LEAGUE_ID);
   const ownerMap = rosterOwnerMap(users, rosters);
   const matchupsRaw = await getMatchups(env.SLEEPER_LEAGUE_ID, targetWeek);
-  const playersById = await getPlayersMap();
+  let playersById = {};
+  try {
+    playersById = await getPlayersMap();
+  } catch (e) {
+    console.error("⚠️ Konnte players map nicht laden – nutze IDs als Fallback:", e?.message || e);
+    playersById = {}; // bleibt leer, damit unten nicht crasht
+  }
   const grouped = groupMatchups(matchupsRaw);
 
   const matchupPayload = grouped.map(group => {
@@ -93,14 +100,14 @@ async function main() {
        teamName: homeTeamName,
         owner: homeOwner,
         points: Number(home.points ?? 0),
-        starters: startersNames(home.starters),
+        starters: startersNames(home.starters, playersById),
         top: topPlayers(away, playersById)
       },
       away: {
         teamName: away?.metadata?.team_name || `Team ${away?.roster_id}`,
         owner: awayOwner,
         points: Number(away?.points ?? 0),
-        starters: startersNames(away?.starters),
+        starters: startersNames(away?.starters, playersById),
         top: topPlayers(away)
       }
     };
