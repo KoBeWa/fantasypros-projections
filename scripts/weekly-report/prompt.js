@@ -1,56 +1,48 @@
-export function systemPrompt(tone = "witzig", language = "de") {
-  const style = tone === "trash"
-    ? "Frech, locker, kurze Punchlines, aufschlussreich, aber nicht beleidigend. Deutsch mit sporttypischem Slang."
-    : tone === "witzig"
-      ? "Locker, humorvoll, kurze Sätze, sportjournalistisch."
-      : "Sachlich-knapp, sportjournalistisch.";
-  const lang = language === "de" ? "Deutsch" : "English";
-
-  return `Du bist ein Sport-Redakteur für Fantasy Football Weekly Reports.
-Schreibe in ${lang}. Stil: ${style}
-Nutze die gelieferten Matchup-Daten (Teams, Punkte, Top/Flop-Spieler, Bench-Highlights, knappe Spiele, Highest/Lowest Score, Streaks).
+export function systemPromptGermanTrashTalk() {
+  return `Du bist ein Fantasy-Football-Kommentator und schreibst wöchentliche Recaps.
+Schreibe auf Deutsch im Stil von US-Sport-Journalismus: locker, humorvoll, mit Trash Talk.
 Regeln:
-
-Nenne Sieger/Verlierer korrekt, keine Halluzinationen.
-
-1–2 knackige Overreactions/Trash-Talk-Einwürfe, aber nicht beleidigend.
-
-Keine erfundenen Stats; verwende nur übergebene Zahlen/Namen.
-
-Schreibe in natürlichem, lockeren Ton; keine Listen – ein flüssiger Textabsatz.“`;
+- Beginne mit 1–2 kurzen einleitenden Sätzen zur Woche (z. B. "Woche X ist vorbei – und manche Teams suchen schon Ausreden.").
+- Für jedes Matchup genau 1 Absatz mit 3–6 Sätzen.
+- Rede bei den Teams nur über die Ownernamen.
+- Nutze Scores, nenne 1–3 prägende Spieler (aus den Top-Listen).
+- Witzige Vergleiche und kurze Punchlines, minimale Beleidigungen oder Anschuldigungen.
+- Keine Fakten erfinden; bleibe bei übergebenen Daten.
+- Ausgabe im Markdown-Format, keine zusätzlichen Überschriften außer der Einleitung, keine Listen.`;
 }
 
-export function userPrompt(payload) {
+export function userPromptGermanTrashTalk(payload) {
   const { leagueName, season, week, matchups } = payload;
-  const lines = [
-    `Liga: ${leagueName}`,
-    `Season: ${season}`,
-    `Woche: ${week}`,
-    ``,
-    `Matchups:`
-  ];
+  const L = [];
+
+  L.push(`Liga: ${leagueName}`);
+  L.push(`Saison: ${season}`);
+  L.push(`Woche: ${week}`);
+  L.push(``);
+  L.push(`Matchups (verwende die Pretty-Owner-Namen so wie übergeben):`);
+
   matchups.forEach((m, i) => {
-    lines.push(
-      `#${i + 1}`,
-      `Home: ${m.home.teamName} (${m.home.owner}) – ${m.home.points.toFixed(2)} Pts`,
-      `Top: ${m.home.top.join(", ") || "-"}`,
-      `Away: ${m.away.teamName} (${m.away.owner}) – ${m.away.points.toFixed(2)} Pts`,
-      `Top: ${m.away.top.join(", ") || "-"}`,
-      `Starters(Home): ${m.home.starters.join(", ") || "-"}`,
-      `Starters(Away): ${m.away.starters.join(", ") || "-"}`,
+    L.push(
+      `Matchup #${i + 1}`,
+      `Home: **${m.home.teamName}** (${m.home.owner}) – ${m.home.points.toFixed(2)} Punkte`,
+      `Top Home: ${m.home.top.join(", ") || "-"}`,
+      `vs.`,
+      `Away: **${m.away.teamName}** (${m.away.owner}) – ${m.away.points.toFixed(2)} Punkte`,
+      `Top Away: ${m.away.top.join(", ") || "-"}`,
       `---`
     );
   });
-  lines.push(
+
+  L.push(
     ``,
-    `Aufgabe: Erstelle einen Weekly-Report-Textblock im Markdown-Format.`,
-    `Struktur:`,
-    `- H1: "Week ${week} – Weekly Report"`,
-    `- Danach pro Matchup:`,
-    `  - H2: "Matchup #N – Home vs Away (Score)"`,
-    `  - H3: Kurze Headline`,
-    `  - 1 Absatz (3–6 Sätze)`,
-    `- Am Ende: 3 Bullet Points "Notable Performances" (ligaweit) basierend auf den Top-Spielern`
+    `Aufgabe:`,
+    `- Schreibe einen kompakten Wochen-Recap in Deutsch.`,
+    `- Baue pro Matchup genau einen Absatz (3–6 Sätze) in der Reihenfolge der Matchups.`,
+    `- Style: locker, humorvoll, mit kurzen Punchlines – analog zu US-Sportartikeln.`,
+    `- Nutze Ownernamen genau wie übergeben (Owner sind bereits formatiert, z. B. "Benni").`,
+    `- Nenne prägende Spieler aus den "Top"-Zeilen im Kontext.`,
+    `- Kein zusätzlicher H2/H3-Kopf – nur Einleitung + Absätze.`
   );
-  return lines.join("\n");
+
+  return L.join("\n");
 }
