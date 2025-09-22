@@ -90,8 +90,9 @@ async function main() {
     matchups: matchupPayload
   });
 
+  const model = process.env.OPENAI_MODEL || "gpt-4o-mini";
   const completion = await client.chat.completions.create({
-    model: "gpt-5.1-mini",
+    model,
     temperature: 0.7,
     messages: [
       { role: "system", content: sys },
