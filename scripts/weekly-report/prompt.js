@@ -1,4 +1,4 @@
-export function systemPrompt(tone: "neutral" | "witzig" | "trash" = "witzig", language: "de" | "en" = "de") {
+export function systemPrompt(tone = "witzig", language = "de") {
   const style = tone === "trash"
     ? "Frech, locker, kurze Punchlines, aber nicht beleidigend. Deutsch mit sporttypischem Slang."
     : tone === "witzig"
@@ -16,23 +16,16 @@ Regeln:
 - Halte dich an die übergebenen Daten (keine Fantasystats erfinden).`;
 }
 
-export function userPrompt(payload: {
-  leagueName: string;
-  season: string;
-  week: number;
-  matchups: Array<{
-    home: { teamName: string; owner: string; points: number; starters: string[]; top: string[] };
-    away: { teamName: string; owner: string; points: number; starters: string[]; top: string[] };
-  }>;
-}) {
+export function userPrompt(payload) {
+  const { leagueName, season, week, matchups } = payload;
   const lines = [
-    `Liga: ${payload.leagueName}`,
-    `Season: ${payload.season}`,
-    `Woche: ${payload.week}`,
+    `Liga: ${leagueName}`,
+    `Season: ${season}`,
+    `Woche: ${week}`,
     ``,
     `Matchups:`
   ];
-  payload.matchups.forEach((m, i) => {
+  matchups.forEach((m, i) => {
     lines.push(
       `#${i + 1}`,
       `Home: ${m.home.teamName} (${m.home.owner}) – ${m.home.points.toFixed(2)} Pts`,
@@ -48,12 +41,12 @@ export function userPrompt(payload: {
     ``,
     `Aufgabe: Erstelle einen Weekly-Report-Textblock im Markdown-Format.`,
     `Struktur:`,
-    `- H1: "Week ${payload.week} – Weekly Report"`,
+    `- H1: "Week ${week} – Weekly Report"`,
     `- Danach pro Matchup:`,
     `  - H2: "Matchup #N – Home vs Away (Score)"`,
     `  - H3: Kurze Headline`,
     `  - 1 Absatz (3–6 Sätze)`,
-    `- Am Ende: 3 Bullet Points "Notable Performances" (ligawweit) basierend auf den Top-Spielern`,
+    `- Am Ende: 3 Bullet Points "Notable Performances" (ligaweit) basierend auf den Top-Spielern`
   );
   return lines.join("\n");
 }
