@@ -22,15 +22,20 @@ function ensureEnv() {
 }
 
 function rosterOwnerMap(users, rosters) {
-  const userMap = new Map();
-  users.forEach(u => userMap.set(u.user_id, u));
-  const ownerByRoster = new Map();
+  const userById = new Map();
+  users.forEach(u => userById.set(u.user_id, u)); // u.display_name, u.username
+
+  const infoByRoster = new Map();
   rosters.forEach(r => {
-    const u = userMap.get(r.owner_id);
-    ownerByRoster.set(r.roster_id, { displayName: u?.display_name ?? "Unknown" });
+    const u = userById.get(r.owner_id);
+    infoByRoster.set(r.roster_id, {
+      displayName: u?.display_name ?? "Unknown",
+      username: u?.username ?? ""
+    });
   });
-  return ownerByRoster;
+  return infoByRoster;
 }
+
 
 function groupMatchups(raw) {
   const byId = new Map();
@@ -55,12 +60,44 @@ const OWNER_NAME_MAP = {
   "Juschka": "Juschi"
 };
 
-function prettyOwnerName(teamName, fallbackDisplayName) {
-  const key = String(teamName || "").trim();
-  if (key && Object.prototype.hasOwnProperty.call(OWNER_NAME_MAP, key)) {
-    return OWNER_NAME_MAP[key];
+// Alles lowercase! (wir normalisieren Vergleichswerte ebenfalls)
+const OWNER_ALIAS_LOWER = {
+  // Deine "schönen" Teamnamen
+  "dreggsverein": "Benni",
+  "talahon united": "Simi",
+  "snatchville lubricators": "Kessi",
+  "extrem durstige welse": "Ritz",
+  "og united": "Erik",
+  "oG united": "Erik",   // falls mal gemischt geschrieben
+  "i_hate_kowa": "Tommy",
+  "suckme mourdock network": "Marv",
+  "juschka": "Juschi",
+
+  // Deine realen aktuellen Sleeper-Namen/Usernames (aus deinem Beispiel)
+  "shamh": "Benni",
+  "kesso": "Kessi",
+  "lossausages": "Ritz",
+  "simon2307": "Simi",
+  "jottage": "Erik",
+  "thebiglebronski": "Tommy",
+  "lancemourdock": "Marv"
+};
+
+function prettyOwnerName({ teamName, displayName, username }) {
+  const cand = [
+    String(teamName || "").toLowerCase().trim(),
+    String(displayName || "").toLowerCase().trim(),
+    String(username || "").toLowerCase().trim()
+  ].filter(Boolean);
+
+  for (const key of cand) {
+    if (OWNER_ALIAS_LOWER[key]) return OWNER_ALIAS_LOWER[key];
   }
-  return (fallbackDisplayName ? String(fallbackDisplayName).toUpperCase() : "UNKNOWN");
+
+  // Fallback: DISPLAYNAME in CAPS (besser lesbar als Sleeper-Username)
+  if (displayName) return String(displayName).toUpperCase();
+  if (username) return String(username).toUpperCase();
+  return "UNKNOWN";
 }
 
 /** ====== Spieler-/Lineup-Helfer ====== */
@@ -119,25 +156,19 @@ async function main() {
     const awayDisplay = away ? (ownerMap.get(away.roster_id)?.displayName ?? "Unknown") : "Unknown";
 
     // WICHTIG: hier dein schönes Mapping benutzen
-    const homeOwner = prettyOwnerName(homeTeamName, homeDisplay);
-    const awayOwner = prettyOwnerName(awayTeamName, awayDisplay);
-
-    return {
-      home: {
-        teamName: homeTeamName,
-        owner: homeOwner,
-        points: Number(home?.points ?? 0),
-        starters: startersNames(home?.starters, playersById),
-        top: topPlayers(home, playersById)
-      },
-      away: {
-        teamName: awayTeamName,
-        owner: awayOwner,
-        points: Number(away?.points ?? 0),
-        starters: startersNames(away?.starters, playersById),
-        top: topPlayers(away, playersById)
-      }
-    };
+    const homeOwnerInfo = ownerMap.get(home?.roster_id) || {};
+    const awayOwnerInfo = away ? (ownerMap.get(away.roster_id) || {}) : {};
+    
+    const homeOwner = prettyOwnerName({
+      teamName: home?.metadata?.team_name,
+      displayName: homeOwnerInfo.displayName,
+      username: homeOwnerInfo.username
+    });
+    const awayOwner = prettyOwnerName({
+      teamName: away?.metadata?.team_name,
+      displayName: awayOwnerInfo.displayName,
+      username: awayOwnerInfo.username
+    });
   });
 
   // Prompts (deutsch, witzig, kein harter Trash)
