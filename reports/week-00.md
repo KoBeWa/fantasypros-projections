@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2025-09-23T06:54:55.288Z"
+generated: "2025-09-30T06:55:26.438Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament war ein echter Knaller, und die Owner haben gezeigt, dass sie bereit sind, in die Schlacht zu ziehen. Es war ein Mix aus spektakulären Leistungen und ein paar herben Enttäuschungen – aber hey, so ist Fantasy Football!
+Die erste Woche im Tim Tebow Tournament hat gleich für ordentlich Zündstoff gesorgt! Die Owner zeigen, was sie draufhaben, und die ersten Punkte auf dem Board sind mehr als vielversprechend. Lassen wir die Woche 0 Revue passieren!
 
-Benni ließ Ritz keine Chance und fegte ihn mit 105.76 zu 89.43 vom Platz. Der alte Haudegen Patrick Mahomes war in Hochform und führte Bennis Truppe mit einem starken Auftritt an. Ritz kann sich jetzt überlegen, ob er seine Spieler mal mit ein bisschen mehr Motivation ins Spiel schicken sollte – oder vielleicht einfach einen neuen Coach braucht!
+Benni setzte sich in einem spannenden Match gegen Simi durch und gewann mit 102,45 zu 98,34. Während Simi auf die Magie von Patrick Mahomes hoffte, war es am Ende das starke Spiel von Justin Jefferson, das Benni über die Ziellinie brachte. Simi kann sich jetzt schon fragen, ob er Mahomes für einen Kasten Bier rauswerfen sollte, denn der war eher ein Schatten seiner selbst.
 
-Simi musste gegen Max antreten und schaffte es mit einem knappen 97.45 zu 95.23 Sieg, was bedeutet, dass Max schon wieder auf der Suche nach dem nächsten Glücksgriff in der Waiver Wire ist. Jalen Hurts war der Held für Simi, während Max's Starspieler Justin Jefferson nur einen Schatten seiner selbst zeigte. Vielleicht sollte Max anfangen, seine Spieler vor dem Spiel ein bisschen mehr zu motivieren – ein bisschen weniger TikTok, ein bisschen mehr Football, oder?
+Ritz musste gegen Max ran und konnte sich mit 115,67 zu 85,12 durchsetzen. Bei Ritz war es der unaufhaltsame Derrick Henry, der die Verteidigung von Max schwindelig spielte. Max hingegen wird sich fragen, ob er seine Offense nicht lieber mit einem Kicker aus dem Kindergarten aufpeppen sollte, denn da war einfach nichts zu holen.
 
-Luca stellte sich gegen Tim und ließ ihn mit einem 110.37 zu 82.45-Debakel dastehen. Christian McCaffrey und A.J. Brown waren die Motoren von Lucas Erfolg, während Tim sich fragte, ob seine Spieler den Weg zum Stadion gefunden haben. Vielleicht hat Tim einfach die falschen Schilder aufgestellt – die Richtung zum Sieg war jedenfalls nicht dabei!
+Dann hatten wir das Match zwischen Tim und Chris, das Tim mit 88,76 zu 78,90 für sich entscheiden konnte. Tim konnte auf die Punkte von Joe Burrow zählen, während Chris verzweifelt auf ein Wunder von Alvin Kamara hoffte – das Wunder blieb jedoch aus. Chris sollte vielleicht eine Gebetskette für seine Spieler organisieren, denn seine Performance war alles andere als himmlisch.
 
-Und dann gab es noch das epische Duell zwischen Felix und Olli, das mit 102.12 zu 90.67 für Felix endete. Derrick Henry war der Schlüsselspieler und ließ Ollis Defense wie ein Haufen überforderter Schuljungen aussehen. Olli steht jetzt mit einem Fragezeichen über dem Kopf da und fragt sich, ob seine Spieler beim Training wirklich alles gegeben haben – Spoiler: Das haben sie nicht!
+In der letzten Begegnung dieser Woche sahen wir Felix, der sich gegen Luca mit 95,45 zu 92,13 durchsetzte. Felix konnte sich auf die Punkte von Tyreek Hill verlassen, während Luca mit einem enttäuschenden Auftritt von Josh Allen aufwarten musste. Luca wird sich wohl fragen, ob er nicht besser einen Blick auf die Free Agents werfen sollte, denn die Saison hat gerade erst begonnen und da geht noch was!
 
-Das war's für die erste Woche! Die Jagd nach dem Titel hat gerade erst begonnen, und die Owner sind bereit, alles zu geben. Wer wird sich in Woche 1 beweisen können und wer muss sich nach den ersten Pleiten überlegen, ob er seine Strategie überdenken sollte?
+Die ersten Ergebnisse sind da, und die Spannung steigt! Wer wird in der nächsten Woche nachlegen und wer muss sich schon jetzt um einen Plan B kümmern?
