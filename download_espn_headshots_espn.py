@@ -14,7 +14,6 @@ import requests
 CSV_URL = "https://raw.githubusercontent.com/KoBeWa/Scrape/master/output/espn_players.csv"
 
 # Name der Spalte, in der die ESPN-Spieler-ID steht
-# -> Falls deine CSV anders heißt (z.B. "player_id" oder "espn_id"), hier anpassen
 ID_COLUMN = "espn_id"
 
 # Zielordner relativ zum Repo-Root von fantasypros-projections
@@ -33,6 +32,16 @@ HEADSHOT_URL_TEMPLATE = (
 # ---------------------------------------------------------
 
 
+def detect_delimiter(first_line: str) -> str:
+    """
+    Ermittelt das Trennzeichen anhand der ersten Zeile.
+    Falls ';' vorkommt und ',' nicht, nimm ';', sonst ','.
+    """
+    if ";" in first_line and "," not in first_line:
+        return ";"
+    return ","
+
+
 def download_csv(url: str) -> list[dict]:
     """Lädt die CSV von GitHub und gibt eine Liste von Dict-Zeilen zurück."""
     print(f"Lade CSV von {url} ...")
@@ -40,8 +49,14 @@ def download_csv(url: str) -> list[dict]:
     resp.raise_for_status()
 
     text = resp.text
+    lines = text.splitlines()
+    if not lines:
+        raise RuntimeError("CSV scheint leer zu sein.")
+
+    delimiter = detect_delimiter(lines[0])
+    print(f"Erkanntes Trennzeichen: '{delimiter}'")
     f = io.StringIO(text)
-    reader = csv.DictReader(f)
+    reader = csv.DictReader(f, delimiter=delimiter)
 
     if ID_COLUMN not in reader.fieldnames:
         raise RuntimeError(
@@ -95,7 +110,7 @@ def download_headshot(player_id: str, session: requests.Session) -> bool:
 def main():
     rows = download_csv(CSV_URL)
 
-    # IDs sammeln (ein bisschen Robustheit gegen doppelte IDs / leere Einträge)
+    # IDs sammeln (Robustheit gegen doppelte IDs / leere Einträge)
     player_ids: set[str] = set()
     for row in rows:
         raw_id = row.get(ID_COLUMN)
