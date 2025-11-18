@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2025-11-11T06:54:29.237Z"
+generated: "2025-11-18T06:52:09.601Z"
 ---
 
-Die erste Woche des Tim Tebow Tournament 2025 war ein echtes Spektakel! Die Owner haben sich mächtig ins Zeug gelegt und einige Spieler haben bereits gezeigt, dass sie bereit sind, die Liga im Sturm zu erobern. Lass uns einen Blick auf die Highlights werfen!
+Die erste Woche im Tim Tebow Tournament hat gleich ordentlich gezündet! Die Owner sind bereit, alles zu geben und die ersten Punkte auf das Konto zu bringen. Lassen wir die Woche 0 Revue passieren!
 
-Benni hat gegen Ritz einen knappen Sieg eingefahren und die Partie mit 102.34 zu 99.12 für sich entschieden. Patrick Mahomes war der Held des Spiels und zeigte einmal mehr, warum er als Top-Quarterback gilt. Ritz kann sich jetzt fragen, ob er seine Aufstellung nicht doch einmal überdenken sollte – vielleicht ist es an der Zeit, die „Rookie-Fehler“ zu reduzieren?
+Benni hat sich mit einer knappen 100.52 zu 97.28-Niederlage gegen Ritz durchgeschlängelt. Josh Allen konnte zwar einige spektakuläre Plays zeigen, doch das reichte nicht, um den Sieg zu sichern. Vielleicht sollte Benni den Kopf nicht hängen lassen, sondern seinen Quarterback mal zur Ruhe bringen – das könnte Wunder wirken!
 
-Simi hat sich gegen Timo durchgesetzt und siegte mit 115.78 zu 88.27. Jalen Hurts und A.J. Brown haben zusammen eine Performance hingelegt, die selbst die besten Defensiven in den Schatten stellte. Timo wird sich fragen, ob seine Spieler mehr Zeit im Fitnessstudio oder mehr Zeit im Spielbuch verbringen sollten – denn das war ein echter Auftritt.
+Simi hat die Welle reitet und sich mit einer starken Leistung von Mahomes und St. Brown 111.58 zu 76.84 gegen Extrem durstige Welse durchgesetzt. Derrick Henry machte zwar einen kurzen Auftritt, doch die Welse scheinen ihre Running Backs in der Sahara vergessen zu haben. Vielleicht wäre eine Wasserflasche für die nächsten Spiele keine schlechte Idee, Jungs!
 
-Max hat gegen David eine eindrucksvolle Show abgeliefert und siegte mit 125.50 zu 90.20. Justin Jefferson war der absolute Star des Spiels und hat die gegnerische Defense schwindelig gespielt. David hingegen wird sich in der kommenden Woche fragen, ob seine Spieler ihre Hausaufgaben gemacht haben oder ob sie einfach nur eine lange Nacht hatten.
+Der Dreggsverein hat Juschka mit 120 Punkten ordentlich aufgemischt – Jayden Daniels und Malik Nabers haben gezeigt, dass sie nicht nur für LSU-Fans relevant sind. Juschka hingegen konnte sich nicht auf die überragende Leistung von McCaffrey und Chase verlassen, und Mark Andrews war anscheinend im Urlaub. Vielleicht sollten sie ihn mal anrufen, bevor sie nächste Woche wieder so blass dastehen.
 
-Zu guter Letzt hat Tom gegen Chris mit 113.45 zu 95.30 gewonnen. Derrick Henry hat das Feld dominiert und war nicht zu stoppen. Chris wird sich fragen, ob seine aufgestellten Spieler in der nächsten Woche den Turbo zünden können, denn so wird das nichts mit dem Titel!
+Schnell vergessen und weiter geht's – oG United hat Talahon United mit 91.1 zu 79.94 im "meh"-Duell abserviert. Lamar Jackson hat die Show gerockt, während Talahons Breece Hall und Brian Thomas sich wie Geister durch die Spieltagskarte geschlichen haben. Vielleicht sollten die beiden mal überlegen, ob sie nicht lieber bei einem Halloween-Film mitspielen wollen, statt auf dem Feld zu verschwinden.
 
-Die ersten Ergebnisse sind da und es sieht aus, als ob einige Owner schon jetzt in Panik geraten. Wer wird in Woche 1 die richtigen Anpassungen vornehmen? Das Rennen um die Playoffs hat gerade erst begonnen!
+Die ersten Wunden sind geschlagen, und die Drama-Queens können sich auf die nächsten Wochen vorbereiten. Wer wird sich von der ersten Niederlage erholen, und wer bleibt im Keller? Bleibt dran, denn die Saison hat gerade erst begonnen!
