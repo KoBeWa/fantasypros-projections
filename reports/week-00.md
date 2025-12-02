@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2025-11-25T06:54:39.331Z"
+generated: "2025-12-02T06:55:55.571Z"
 ---
 
-Die Saison 2025 im Tim Tebow Tournament hat endlich begonnen, und die Owner sind bereit, sich in die Schlacht zu stürzen! Es wird Zeit, die ersten Schüsse abzugeben und zu sehen, wer sich als echter Spieler herausstellt und wer schon vor dem ersten Quarter ins Straucheln gerät.
+Die Woche 0 im Tim Tebow Tournament hat gleich zu Beginn für ordentlich Zündstoff gesorgt! Während einige Owner gleich in die Vollen gingen, hatten andere das Gefühl, dass sie noch in der Preseason verweilen.
 
-Benni hat Ritz mit einem klaren 105.30 zu 88.50 besiegt und dabei gezeigt, dass sein Kader nicht nur aus Schönwetterspielern besteht. Patrick Mahomes war der Star des Abends und hat Ritz’s Defense mehr zerrissen als ein schlecht geworfener Pass. Ritz wird sich fragen, ob er nicht doch besser auf seinen Backup setzen sollte, während Benni sich über den perfekten Saisonstart freuen kann.
+Benni setzte sich gegen Ritz mit einem knappen 102.34 zu 99.12 durch, und das nicht zuletzt dank der blitzenden Leistung von Patrick Mahomes, der wie gewohnt alles in die richtige Bahn lenkte. Ritz wird sich fragen, wie sein Team mit einer soliden Performance von Justin Jefferson trotzdem im Rückstand bleibt – vielleicht ist sein Team einfach noch nicht aus dem Winterschlaf erwacht.
 
-Simi hat es geschafft, seine Gegner zu überrollen und ihnen eine Lektion in Sachen Effizienz zu erteilen. Mit einem beeindruckenden 112.67 zu 79.12 hat er Extrem durstige Welse auf die Bretter geschickt, während Breece Hall und Amon-Ra St. Brown den Ball so oft nach vorne trugen, dass die Welse sich wie gefangene Fische fühlten. Vielleicht sollte sich Welse mal ein paar trockene Tücher besorgen, denn nach dieser Klatsche wird es Zeit für eine gründliche Aufarbeitung.
+Simi ließ es gegen Max richtig krachen und feierte einen beeindruckenden 115.67 zu 85.39-Sieg. Jalen Hurts und Tyreek Hill waren in Hochform und schickten Max auf die Verliererstraße, während letzterer wahrscheinlich noch über die verpassten Punkte nachdenkt. Vielleicht sollte Max in Betracht ziehen, die Strategie zu überdenken, denn so wird das nichts mit dem Titel.
 
-Klaus und sein Team haben Juschka mit einem knappen 98.75 zu 97.33 geschlagen, in einem Match, das so spannend war, dass selbst die Zuschauer das Popcorn vergessen haben. Juschka kann sich bei Christian McCaffrey bedanken, der alles gegeben hat, aber am Ende hat Klaus einfach die besseren Karten gezogen. Vielleicht sollte Juschka mal einen Blick auf die Spielzüge werfen, denn diese knappen Niederlagen sind ein sicheres Rezept für schlaflose Nächte.
+Lena konnte sich gegen Tom mit 97.45 zu 88.72 durchsetzen, und das vor allem dank eines starken Auftritts von Derrick Henry, der wie ein Bulldozer durch die gegnerische Verteidigung pflügte. Tom hingegen wird sich ärgern, dass seine Stars nicht in die Gänge kamen – vielleicht hat er sie zu sehr verwöhnt in der Offseason.
 
-Und dann haben wir noch Max, der Talahon United mit einem deutlichen 101.45 zu 82.90 in die Schranken gewiesen hat. Talahon’s Brees Hall und Brian Thomas waren absolut unsichtbar – wahrscheinlich auf einer Geisterjagd! Max hingegen hat mit seiner Kombination aus cleverem Drafting und einer Prise Glück das Feld gerockt. Wenn Talahon so weitermacht, könnte es ganz schnell ein langes Jahr werden!
+Johannes schloss die Woche mit einem 110.56 zu 95.45-Sieg über Felix ab. Die Kombination aus Josh Allen und Stefon Diggs war einfach unschlagbar, während Felix sich fragen muss, wo die Punkte geblieben sind. Vielleicht hilft ihm ein Motivationsspruch vom Coach, denn so wird das nichts mit dem Aufstieg in der Tabelle.
 
-Die ersten Matches der Saison haben bereits die ersten Weichen gestellt. Wer wird sich im Laufe der nächsten Wochen als der wahre Champion herausstellen? Die Spannung steigt!
+Die erste Woche hat gezeigt, dass der Konkurrenzkampf gnadenlos ist – jeder Punkt zählt! Und während einige Owner bereits in der Pole Position sind, müssen die anderen sich sputen, um nicht in der Bedeutungslosigkeit zu verschwinden.
