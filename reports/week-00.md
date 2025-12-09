@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2025-12-02T06:55:55.571Z"
+generated: "2025-12-09T06:56:22.640Z"
 ---
 
-Die Woche 0 im Tim Tebow Tournament hat gleich zu Beginn für ordentlich Zündstoff gesorgt! Während einige Owner gleich in die Vollen gingen, hatten andere das Gefühl, dass sie noch in der Preseason verweilen.
+Die erste Woche des Tim Tebow Tournament 2025 war so spannend, dass selbst die Zuschauer auf der Couch kaum stillsitzen konnten. Die Owner haben sich ordentlich ins Zeug gelegt, und es gab bereits einige Überraschungen und Enttäuschungen.
 
-Benni setzte sich gegen Ritz mit einem knappen 102.34 zu 99.12 durch, und das nicht zuletzt dank der blitzenden Leistung von Patrick Mahomes, der wie gewohnt alles in die richtige Bahn lenkte. Ritz wird sich fragen, wie sein Team mit einer soliden Performance von Justin Jefferson trotzdem im Rückstand bleibt – vielleicht ist sein Team einfach noch nicht aus dem Winterschlaf erwacht.
+Benni setzte sich gegen Ritz mit 105.34 zu 92.18 durch und zeigte dabei, dass er nicht nur mit seinem neuen Kader, sondern auch mit seinen Sprüchen ein echtes Schwergewicht ist. Josh Allen zauberte mal wieder und ließ Ritz’ Defense wie ein Haufen Schuljungen aussehen, während der arme Ritz sich fragt, wann sein Starspieler endlich aufwachen wird.
 
-Simi ließ es gegen Max richtig krachen und feierte einen beeindruckenden 115.67 zu 85.39-Sieg. Jalen Hurts und Tyreek Hill waren in Hochform und schickten Max auf die Verliererstraße, während letzterer wahrscheinlich noch über die verpassten Punkte nachdenkt. Vielleicht sollte Max in Betracht ziehen, die Strategie zu überdenken, denn so wird das nichts mit dem Titel.
+Simi schnappte sich den Sieg gegen Marius mit 98.45 zu 85.67 und ließ dabei kaum einen Zweifel daran, dass er diesen Sieg verdient hat. Jalen Hurts war der absolute Game-Changer und ließ die gegnerische Verteidigung auf dem Feld wie Statisten in einem schlechten Film wirken. Marius hingegen wird sich fragen, ob er nicht vielleicht doch einen anderen Quarterback hätte aufstellen sollen, anstatt zu hoffen, dass seine Spieler das Minimum an Punkten erreichen.
 
-Lena konnte sich gegen Tom mit 97.45 zu 88.72 durchsetzen, und das vor allem dank eines starken Auftritts von Derrick Henry, der wie ein Bulldozer durch die gegnerische Verteidigung pflügte. Tom hingegen wird sich ärgern, dass seine Stars nicht in die Gänge kamen – vielleicht hat er sie zu sehr verwöhnt in der Offseason.
+Lukas und Tim lieferten sich ein spannendes Duell, das Lukas mit 112.75 zu 107.43 für sich entscheiden konnte. Der Auftritt von Tyreek Hill war der Schlüssel zum Erfolg, während Tim mit einer soliden Leistung von McCaffrey kämpfte, aber letztlich nicht genug hatte. Tim sollte vielleicht mal seine Aufstellung überdenken, bevor er sich für die nächste Woche einen neuen Glücksbringer sucht.
 
-Johannes schloss die Woche mit einem 110.56 zu 95.45-Sieg über Felix ab. Die Kombination aus Josh Allen und Stefon Diggs war einfach unschlagbar, während Felix sich fragen muss, wo die Punkte geblieben sind. Vielleicht hilft ihm ein Motivationsspruch vom Coach, denn so wird das nichts mit dem Aufstieg in der Tabelle.
+Zum Schluss hat Jonas gegen Felix mit 110.12 zu 99.01 gewonnen und bewies damit, dass er in dieser Saison ganz oben mitspielen will. Justin Jefferson lieferte einen beeindruckenden Auftritt ab, während Felix auf einen vermeintlichen Geheimtipp setzte, der sich als Rohrkrepierer herausstellte. Vielleicht sollte Felix die nächsten Wochen mal seine Spieler auf die Bank setzen, um zu sehen, ob sie dort mehr Punkte sammeln als auf dem Feld. 
 
-Die erste Woche hat gezeigt, dass der Konkurrenzkampf gnadenlos ist – jeder Punkt zählt! Und während einige Owner bereits in der Pole Position sind, müssen die anderen sich sputen, um nicht in der Bedeutungslosigkeit zu verschwinden.
+Eine aufregende Woche, die zeigt, dass es in dieser Liga alles geben kann – und die Spannung ist erst der Anfang!
