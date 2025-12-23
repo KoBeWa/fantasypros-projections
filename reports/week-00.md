@@ -1,14 +1,14 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2025-12-16T06:57:25.263Z"
+generated: "2025-12-23T06:57:58.348Z"
 ---
 
-Die Saison ist endlich da, und die Spannung steigt! In der ersten Woche des Tim Tebow Tournament haben die Owner bereits ihre Duftmarken gesetzt – manche mit Bravour, andere mit mehr Fragen als Antworten.
+Die Woche 0 des Tim Tebow Tournaments hat uns schon mal einen Vorgeschmack auf die kommenden Wochen gegeben, und es war Zeit, die ersten Lederbälle durch die Luft fliegen zu lassen. Die Owner haben sich ordentlich ins Zeug gelegt, und einige haben schon gleich zu Beginn gezeigt, dass sie bereit sind, die Liga aufzumischen!
 
-Benni hat sich gegen Ritz durchgesetzt und das gleich mit einer eindrucksvollen Leistung von 112.34 zu 98.76. Patrick Mahomes war der Kapitän auf dem Feld und ließ Ritz’ Verteidigung alt aussehen. Wenn Ritz nicht bald eine Strategie gegen diese QB-Show findet, könnte er sich bald auf die Suche nach einem neuen Trainer machen.
+Benni ließ Ritz auf dem Platz stehen und feierte einen knappen Sieg mit 102.34 zu 98.76. Patrick Mahomes war der Star des Abends und warf Pässe, als wäre er im Training mit einem der besten Wide Receiver der Liga. Ritz wird sich nach diesem Herzschlagfinale fragen, ob er nicht doch besser eine andere Strategie wählen sollte, um nicht ständig dem Druck standzuhalten.
 
-Simi hat sich gegen Felix behauptet und mit 105.67 zu 87.43 den ersten Sieg der Saison eingefahren. Jalen Hurts und Tyreek Hill haben die Offense so richtig zum Laufen gebracht, während Felix’ Stars wie ein Schatten ihrer selbst wirkten. Vielleicht sollte Felix mal einen Blick in die Spielerkabine werfen – da könnten ein paar Motivationsreden nicht schaden.
+Simi hat die Welle der Euphorie geritten und besiegte Max mit 115.45 zu 89.12. Jalen Hurts war der Motor, der Simi zum Sieg führte und dabei mehr Punkte sammelte als Max' gesamte Mannschaft. Max wird sich wohl fragen, ob er seine Spieler nicht doch lieber auf die Couch schicken sollte, anstatt sie ins Rennen zu schicken – das war nicht gerade die glanzvollste Vorstellung.
 
-Luca hat sich gegen Max durchgesetzt, und das mit einem klaren Endstand von 118.29 zu 101.55. Justin Jefferson war der Superstar des Abends und hat Max’ Defense auf dem falschen Fuß erwischt. Max wird sich fragen müssen, ob seine Stars wirklich bereit sind, denn das sah eher nach einem müden Auftritt aus.
+Timo hat sich gegen Felix durchgesetzt und einen klaren 110.20 zu 77.30-Sieg eingefahren. Derrick Henry lief wie ein Berserker und ließ Felix’ Defense so alt aussehen wie die letzten Reste des Grillfests. Felix wird sich wohl fragen, ob seine Mannschaft einen Anruf bei den Geistern seiner alten Stars braucht – denn die Leistungen waren alles andere als beeindruckend.
 
-Am Ende der Woche hat sich gezeigt, dass einige Owner schon gleich zu Beginn auf dem richtigen Weg sind, während andere noch auf der Suche nach ihrem Spielrhythmus sind. Die nächsten Wochen versprechen noch mehr Drama und vielleicht ein paar überraschende Wendungen!
+Letzte Woche war nur ein kleiner Vorgeschmack, aber die Spannung ist schon jetzt greifbar. Die Owner sind bereit, sich gegenseitig die Show zu stehlen, und das Beste kommt erst noch!
