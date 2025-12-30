@@ -1,14 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2025-12-23T06:57:58.348Z"
+generated: "2025-12-30T06:56:45.339Z"
 ---
 
-Die Woche 0 des Tim Tebow Tournaments hat uns schon mal einen Vorgeschmack auf die kommenden Wochen gegeben, und es war Zeit, die ersten Lederbälle durch die Luft fliegen zu lassen. Die Owner haben sich ordentlich ins Zeug gelegt, und einige haben schon gleich zu Beginn gezeigt, dass sie bereit sind, die Liga aufzumischen!
+Die Woche 0 im Tim Tebow Tournament hat uns gleich zu Beginn einige spannende Duelle beschert, die die Menge aufheizten und die ersten Wetten auf die Favoriten aufstellten. Lassen wir den Trash Talk beginnen!
 
-Benni ließ Ritz auf dem Platz stehen und feierte einen knappen Sieg mit 102.34 zu 98.76. Patrick Mahomes war der Star des Abends und warf Pässe, als wäre er im Training mit einem der besten Wide Receiver der Liga. Ritz wird sich nach diesem Herzschlagfinale fragen, ob er nicht doch besser eine andere Strategie wählen sollte, um nicht ständig dem Druck standzuhalten.
+Benni hat Ritz im ersten Matchup ordentlich den Wind aus den Segeln genommen und mit 105.34 zu 89.12 gewonnen. Patrick Mahomes war der Hauptarchitekt dieses Sieges und ließ Ritz’ Defense wie ein paar Slalomstangen aussehen. Wenn Ritz nicht aufpasst, wird er bald im Keller der Liga feststecken – und nicht einmal die besten Snacks zur Ablenkung haben.
 
-Simi hat die Welle der Euphorie geritten und besiegte Max mit 115.45 zu 89.12. Jalen Hurts war der Motor, der Simi zum Sieg führte und dabei mehr Punkte sammelte als Max' gesamte Mannschaft. Max wird sich wohl fragen, ob er seine Spieler nicht doch lieber auf die Couch schicken sollte, anstatt sie ins Rennen zu schicken – das war nicht gerade die glanzvollste Vorstellung.
+Simi hat sich gegen David durchgesetzt und das mit einem klaren 112.45 zu 84.67. Jalen Hurts und A.J. Brown lieferten ein echtes Highlight-Duo ab und ließen Davids Träume vom Sieg wie ein Luftballon platzen. Vielleicht sollte David mal über eine Änderung in seiner Aufstellung nachdenken – oder einfach gleich auf die nächste Woche umschalten.
 
-Timo hat sich gegen Felix durchgesetzt und einen klaren 110.20 zu 77.30-Sieg eingefahren. Derrick Henry lief wie ein Berserker und ließ Felix’ Defense so alt aussehen wie die letzten Reste des Grillfests. Felix wird sich wohl fragen, ob seine Mannschaft einen Anruf bei den Geistern seiner alten Stars braucht – denn die Leistungen waren alles andere als beeindruckend.
+In einem spannenden Duell hat Tim seinen Rivalen Chris mit 98.75 zu 93.55 besiegt. Ein starker Auftritt von Justin Jefferson stellte sicher, dass Tim nicht nur die Punkte, sondern auch die bragging rights mit nach Hause nahm. Chris wird sich fragen, ob sein Team einfach nur ein paar mehr Trainingsstunden braucht oder ob der ganze Plan hinten und vorne nicht aufgeht.
 
-Letzte Woche war nur ein kleiner Vorgeschmack, aber die Spannung ist schon jetzt greifbar. Die Owner sind bereit, sich gegenseitig die Show zu stehlen, und das Beste kommt erst noch!
+Stefan hat gegen Moritz mit einem klaren 115.20 zu 99.88 triumphiert und sich damit einen starken Start in die Saison gesichert. Derrick Henry hat nicht nur die Beine in Bewegung gehalten, sondern auch Moritz’ Hoffnungen auf einen Sieg platt gemacht. Moritz könnte sich mal überlegen, ob seine Spieler nicht vielleicht die falschen Positionen gewählt haben – Quoten von 2:1 auf die nächste Niederlage stehen nicht gerade gut!
+
+Nach dieser ersten Woche ist klar: Die Liga ist heiß, und die Owner sind bereit, alles zu geben. Wer wird sich in der kommenden Woche aufrappeln können, und wer bleibt hinter den Erwartungen zurück?
