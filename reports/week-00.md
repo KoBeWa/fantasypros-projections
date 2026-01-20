@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-01-13T06:59:14.604Z"
+generated: "2026-01-20T07:02:34.578Z"
 ---
 
-Die Woche 0 des Tim Tebow Tournaments hat uns schon einmal einen Vorgeschmack auf das gegeben, was uns in dieser Saison erwartet. Einige Owner haben sich bereits in Form gezeigt, während andere noch auf der Suche nach dem richtigen Rhythmus sind.
+Die erste Woche des Tim Tebow Tournaments 2025 hat uns gleich mal ordentlich eingeheizt! Es war ein epischer Auftakt, der einige Owner zum Jubeln und andere zum Weinen brachte – und das alles ohne dass ein echter Ball geworfen wurde.
 
-Benni hat Ritz mit einem soliden 102.34 zu 89.76 aus dem Stadion gefegt. Mit Jalen Hurts, der die Defense von Ritz wie ein heißes Messer durch die Butter durchbohrte, und A.J. Brown, der ebenfalls für einige Big Plays sorgte, war es ein klarer Sieg für Benni. Ritz wird sich fragen, ob er das richtige Rezept für den Erfolg gefunden hat oder ob er einfach nur einen neuen Fantasy-Coach braucht.
+Benni hat Ritz mit einem knappen 100.52 zu 97.28 geschlagen. Auch wenn Josh Allen in der ersten Hälfte mit seinem Spielstil für Herzklopfen sorgte, war es letztendlich doch die cleverere Aufstellung von Benni, die den Unterschied machte. Ritz wird sich fragen, ob er nicht besser auf die SF-Defense vertraut hätte, anstatt bei seinen Startaufstellungen zu zögern.
 
-Simi hat es geschafft, die Konkurrenz in Schach zu halten und feierte einen überzeugenden 117.45 zu 95.21-Sieg gegen Flo. Der unaufhaltsame Tyreek Hill ließ die Verteidigung von Flo verzweifeln, während auch Justin Jefferson seine Visitenkarte hinterließ. Flo hingegen könnte sich fragen, ob sein Team nicht bald mehr wie ein Kaffeekränzchen denn wie ein Football-Team aussieht.
+Simi hat die Konkurrenz mit einem saftigen 111.58 zu 76.84 auf die Bretter geschickt. Patrick Mahomes und Amon-Ra St. Brown lieferten eine Show ab, während Derrick Henry nur kurz vorbeischaute, um zu sehen, wie die Party läuft. Extrem durstige Welse sollten vielleicht überlegen, ihren Running Backs ein paar mehr Drinks anzubieten – die haben sich ganz schön ausgetrocknet.
 
-Luca hat sich gegen Max einen atemberaubenden 110.12 zu 100.85-Sieg erkämpft und damit bewiesen, dass er durchaus das Zeug zum Titelaspiranten hat. Mit einem starken Auftritt von Derrick Henry, der wie ein Bulldozer durch die Verteidigung von Max pflügte, sowie einer soliden Leistung von DeAndre Hopkins sah alles nach einer runden Sache für Luca aus. Max wird sich hingegen fragen, ob seine Spieler nicht einfach mal die Playbook-Seiten umblättern sollten.
+In einem eindrucksvollen Auftritt hat Dreggsverein Juschka mit 120 Punkten überrollt. Jayden Daniels und Malik Nabers waren die Stars des Spiels und haben bewiesen, dass sie nicht nur für LSU-Fans glänzen. Juschka hingegen kann sich nur wünschen, dass McCaffrey und Chase in der nächsten Woche mal wieder aufdrehen – vielleicht hat Mark Andrews ja auch mal wieder Lust, sich zu blicken.
 
-Schließlich hatte Tom einen holprigen Start und musste sich gegen Chris mit 78.45 zu 105.67 geschlagen geben. Während Chris mit Patrick Mahomes den Gegner wie ein Schachmeister ausmanövrierte, blieb Tom auf der Strecke und seine Spieler schienen mehr mit dem Nachdenken über ihre nächsten Züge beschäftigt zu sein, als tatsächlich zu spielen. Vielleicht hilft ein bisschen Aufmunterung von den Fantasy-Gurus, um Toms Team wieder auf Kurs zu bringen.
+Schließlich hat oG United Talahon United mit 91.1 zu 79.94 in einem Matchup der „meh“ besiegt. Lamar Jackson hat die Geschicke von oG United souverän geleitet, während Talahons Breece Hall und Brian Thomas so aktiv waren wie ein Schatten in der Nacht. Talahon wird sich wohl fragen, ob sie nicht doch ein bisschen mehr Zeit in die Aufstellung investieren sollten.
 
-Insgesamt war die erste Woche ein spannender Auftakt, und es gibt viel zu besprechen, während die Owner mit ihren Strategien jonglieren. Wer wird sich in der nächsten Woche besser schlagen? Die Show geht weiter!
+Die Woche 0 hat uns einen Vorgeschmack auf das gegeben, was noch kommt. Es bleibt spannend, denn die echten Kämpfe stehen noch bevor!
