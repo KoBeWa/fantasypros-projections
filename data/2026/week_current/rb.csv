@@ -1,20 +1,12 @@
 position,season,week,"('Unnamed: 0_level_0', 'Player')","('RUSHING', 'ATT')","('RUSHING', 'YDS')","('RUSHING', 'TDS')","('RECEIVING', 'REC')","('RECEIVING', 'YDS')","('RECEIVING', 'TDS')","('MISC', 'FL')","('MISC', 'FPTS')"
-RB,2026,,Christian McCaffrey SF,16.2,62.6,0.5,5.4,51.9,0.3,0.0,15.9
-RB,2026,,James Cook III BUF,16.0,80.5,0.6,1.9,15.7,0.1,0.0,13.7
-RB,2026,,RJ Harvey DEN,14.7,64.9,0.5,3.1,23.3,0.2,0.0,12.9
-RB,2026,,Kyren Williams LAR,14.2,63.1,0.5,1.9,13.6,0.1,0.0,11.0
-RB,2026,,Rhamondre Stevenson NE,12.6,52.7,0.4,2.9,23.3,0.1,0.0,10.7
-RB,2026,,Kenneth Walker III SEA,13.0,56.7,0.4,2.6,19.4,0.1,0.0,10.5
-RB,2026,,Zach Charbonnet SEA,11.0,47.2,0.6,2.6,17.3,0.1,0.0,10.3
-RB,2026,,Woody Marks HOU,17.0,66.0,0.3,1.0,12.0,0.1,0.0,10.2
-RB,2026,,D'Andre Swift CHI,12.7,54.9,0.4,2.3,16.2,0.1,0.0,10.1
-RB,2026,,TreVeyon Henderson NE,10.3,45.9,0.4,1.1,8.4,0.1,0.0,8.3
-RB,2026,,Blake Corum LAR,10.8,44.3,0.3,1.1,7.7,0.0,0.0,7.1
-RB,2026,,Kyle Monangai CHI,9.4,39.6,0.3,1.2,8.3,0.0,0.0,6.9
-RB,2026,,Jaleel McLaughlin DEN,5.0,22.8,0.1,0.8,3.9,0.0,0.0,3.4
-RB,2026,,Nick Chubb HOU,5.2,21.7,0.1,0.1,1.0,0.0,0.0,2.9
-RB,2026,,Kyle Juszczyk SF,0.5,2.1,0.0,1.8,17.0,0.1,0.0,2.3
-RB,2026,,Brian Robinson Jr. SF,4.5,17.8,0.0,0.1,1.1,0.0,0.0,2.1
-RB,2026,,Ray Davis BUF,2.0,7.7,0.0,0.5,5.2,0.0,0.0,1.4
-RB,2026,,Tyler Badie DEN,0.5,2.1,0.0,1.1,7.1,0.0,0.0,1.1
-RB,2026,,Terrell Jennings NE,1.5,5.8,0.0,0.2,1.6,0.0,0.0,1.0
+RB,2026,,RJ Harvey DEN,13.7,59.1,0.4,2.9,24.3,0.1,0.0,11.5
+RB,2026,,Kyren Williams LAR,15.0,69.5,0.5,1.6,10.4,0.1,0.0,11.4
+RB,2026,,Kenneth Walker III SEA,14.8,61.8,0.4,2.2,16.6,0.1,0.0,11.1
+RB,2026,,Rhamondre Stevenson NE,12.2,53.4,0.4,2.7,22.3,0.1,0.0,10.4
+RB,2026,,TreVeyon Henderson NE,10.2,46.8,0.4,1.7,13.9,0.1,0.0,8.6
+RB,2026,,Zach Charbonnet SEA,8.7,36.4,0.4,1.0,7.3,0.0,0.0,6.8
+RB,2026,,Blake Corum LAR,7.1,31.0,0.2,1.9,14.5,0.1,0.0,6.0
+RB,2026,,Jaleel McLaughlin DEN,6.2,27.3,0.2,0.5,2.8,0.0,0.0,4.0
+RB,2026,,Adam Prentice DEN,2.8,11.1,0.1,0.2,1.6,0.0,0.0,1.6
+RB,2026,,Tyler Badie DEN,0.8,3.4,0.0,0.9,6.3,0.0,0.0,1.1
+RB,2026,,D'Ernest Johnson NE,1.2,4.8,0.0,0.5,4.3,0.0,0.0,1.1
