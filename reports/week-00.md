@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-01-20T07:02:34.578Z"
+generated: "2026-01-27T07:01:20.097Z"
 ---
 
-Die erste Woche des Tim Tebow Tournaments 2025 hat uns gleich mal ordentlich eingeheizt! Es war ein epischer Auftakt, der einige Owner zum Jubeln und andere zum Weinen brachte – und das alles ohne dass ein echter Ball geworfen wurde.
+Die erste Woche im Tim Tebow Tournament 2025 war ein Feuerwerk der Emotionen – die Owner hatten endlich die Chance, ihre Strategien auf dem Feld zu zeigen. Und wie sollte es anders sein, die ersten Duelle hatten bereits den Nervenkitzel eines Finales!
 
-Benni hat Ritz mit einem knappen 100.52 zu 97.28 geschlagen. Auch wenn Josh Allen in der ersten Hälfte mit seinem Spielstil für Herzklopfen sorgte, war es letztendlich doch die cleverere Aufstellung von Benni, die den Unterschied machte. Ritz wird sich fragen, ob er nicht besser auf die SF-Defense vertraut hätte, anstatt bei seinen Startaufstellungen zu zögern.
+Benni setzte sich in einem Herzschlag-Finish gegen Ritz durch, 102.36 zu 99.42. Mit einer Glanzleistung von Jalen Hurts und einem soliden Beitrag von Tyreek Hill war Benni der Glückliche, während Ritz sich fragen muss, wie viele Punkte er noch aus seiner Bank rausschütteln kann, um nicht schon früh in der Saison unterzugehen.
 
-Simi hat die Konkurrenz mit einem saftigen 111.58 zu 76.84 auf die Bretter geschickt. Patrick Mahomes und Amon-Ra St. Brown lieferten eine Show ab, während Derrick Henry nur kurz vorbeischaute, um zu sehen, wie die Party läuft. Extrem durstige Welse sollten vielleicht überlegen, ihren Running Backs ein paar mehr Drinks anzubieten – die haben sich ganz schön ausgetrocknet.
+Simi ließ sich von keiner Müdigkeit aufhalten und trumpfte mit 115.75 Punkten gegen Karo auf, die nur 88.12 Punkte auf das Board bringen konnte. Patrick Mahomes war der Superstar des Abends und ließ Karo’s Defense wie Statisten im Theater wirken. Vielleicht sollte Karo mal die Zeit zurückdrehen und sich ihre Draft-Strategie nochmal anschauen.
 
-In einem eindrucksvollen Auftritt hat Dreggsverein Juschka mit 120 Punkten überrollt. Jayden Daniels und Malik Nabers waren die Stars des Spiels und haben bewiesen, dass sie nicht nur für LSU-Fans glänzen. Juschka hingegen kann sich nur wünschen, dass McCaffrey und Chase in der nächsten Woche mal wieder aufdrehen – vielleicht hat Mark Andrews ja auch mal wieder Lust, sich zu blicken.
+Elias und Lars lieferten sich ein spannendes Kopf-an-Kopf-Rennen, das Elias mit 98.67 zu 95.83 für sich entscheiden konnte. Ein starkes Comeback von Austin Ekeler sorgte dafür, dass Lars die Niederlage wie ein schales Bier hinnehmen musste. Vielleicht sollte Lars mal einen Blick auf seine Starting-Positionen werfen – das war nicht der große Auftritt, den er sich erhofft hatte.
 
-Schließlich hat oG United Talahon United mit 91.1 zu 79.94 in einem Matchup der „meh“ besiegt. Lamar Jackson hat die Geschicke von oG United souverän geleitet, während Talahons Breece Hall und Brian Thomas so aktiv waren wie ein Schatten in der Nacht. Talahon wird sich wohl fragen, ob sie nicht doch ein bisschen mehr Zeit in die Aufstellung investieren sollten.
+Zu guter Letzt schaffte es Max, mit 105.15 Punkten gegen Tim zu gewinnen, während dieser nur 91.76 Punkte auf die Uhr brachte. Justin Jefferson war der Lichtblick für Max, der mit seinen Punkten die Dunkelheit von Tim’s Team vertreiben konnte. Tim, alter Freund, du solltest vielleicht mal die Playbook-Seite umblättern – das war nicht das erhoffte Feuerwerk zum Saisonstart! 
 
-Die Woche 0 hat uns einen Vorgeschmack auf das gegeben, was noch kommt. Es bleibt spannend, denn die echten Kämpfe stehen noch bevor!
+Die Liga hat eine explosive erste Woche hingelegt und die Owner sind heiß darauf, in den kommenden Wochen ihre Dominanz zu beweisen. Wer wird der nächste sein, der sich die Krone aufsetzen kann? Bleibt dran!
