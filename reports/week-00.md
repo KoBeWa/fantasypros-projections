@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-01-27T07:01:20.097Z"
+generated: "2026-02-03T07:26:56.606Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament 2025 war ein Feuerwerk der Emotionen – die Owner hatten endlich die Chance, ihre Strategien auf dem Feld zu zeigen. Und wie sollte es anders sein, die ersten Duelle hatten bereits den Nervenkitzel eines Finales!
+Die erste Woche des Tim Tebow Tournaments 2025 ist vorbei und die Owner haben sich gleich ordentlich ins Zeug gelegt. Während einige glänzten, fanden andere schnell heraus, dass der Weg zum Titel steinig sein kann. Lass uns einen Blick auf die Action werfen!
 
-Benni setzte sich in einem Herzschlag-Finish gegen Ritz durch, 102.36 zu 99.42. Mit einer Glanzleistung von Jalen Hurts und einem soliden Beitrag von Tyreek Hill war Benni der Glückliche, während Ritz sich fragen muss, wie viele Punkte er noch aus seiner Bank rausschütteln kann, um nicht schon früh in der Saison unterzugehen.
+Benni setzte sich gegen Max durch, 120.34 zu 115.12, und bewies, dass er mehr als nur Glück im Spiel hat. Patrick Mahomes und Tyreek Hill waren die Stars des Abends, während Max wahrscheinlich noch darüber nachdenkt, ob die Entscheidung für seine Running Backs der richtige Weg war. Wenn seine Spieler so weiter machen, könnte er bald mehr Zeit mit dem Aufstellen seiner Line-Up verbringen als mit dem Feiern.
 
-Simi ließ sich von keiner Müdigkeit aufhalten und trumpfte mit 115.75 Punkten gegen Karo auf, die nur 88.12 Punkte auf das Board bringen konnte. Patrick Mahomes war der Superstar des Abends und ließ Karo’s Defense wie Statisten im Theater wirken. Vielleicht sollte Karo mal die Zeit zurückdrehen und sich ihre Draft-Strategie nochmal anschauen.
+Simi ließ Tom mit einem klaren 130.45 zu 85.67 keine Chance und machte damit ordentlich Druck auf die Konkurrenz. Jalen Hurts und A.J. Brown waren nicht zu stoppen und schickten Tom ins Tal der Tränen. Vielleicht sollte Tom mal bei Simi nach Tipps fragen, wie man die Woche überlebt, ohne im Fantasy-Football-Koma zu landen.
 
-Elias und Lars lieferten sich ein spannendes Kopf-an-Kopf-Rennen, das Elias mit 98.67 zu 95.83 für sich entscheiden konnte. Ein starkes Comeback von Austin Ekeler sorgte dafür, dass Lars die Niederlage wie ein schales Bier hinnehmen musste. Vielleicht sollte Lars mal einen Blick auf seine Starting-Positionen werfen – das war nicht der große Auftritt, den er sich erhofft hatte.
+Janisch warf sich gegen Lisa auf die Siegerstraße mit einem knappen 98.76 zu 97.45. Russell Wilson brachte die Punkte, aber auch Lisa hatte mit ihren Stars ordentlich zu kämpfen. Vielleicht sollte sie mal das Playbook ihrer Spieler überarbeiten, denn mit dieser Leistung wird es schwer, die Konkurrenz zu überholen.
 
-Zu guter Letzt schaffte es Max, mit 105.15 Punkten gegen Tim zu gewinnen, während dieser nur 91.76 Punkte auf die Uhr brachte. Justin Jefferson war der Lichtblick für Max, der mit seinen Punkten die Dunkelheit von Tim’s Team vertreiben konnte. Tim, alter Freund, du solltest vielleicht mal die Playbook-Seite umblättern – das war nicht das erhoffte Feuerwerk zum Saisonstart! 
+Und schließlich sahen wir ein spannendes Duell zwischen Lukas und David, wo Lukas mit 112.97 zu 110.88 das Rennen machte. Mit einem starken Auftritt von Derrick Henry ließ er David im Regen stehen, der sich jetzt fragt, ob seine Spieler noch rechtzeitig aufwachen, bevor der Zug in den Playoffs abgefahren ist. Wenn sie nicht bald in die Puschen kommen, wird es für David eine lange Saison. 
 
-Die Liga hat eine explosive erste Woche hingelegt und die Owner sind heiß darauf, in den kommenden Wochen ihre Dominanz zu beweisen. Wer wird der nächste sein, der sich die Krone aufsetzen kann? Bleibt dran!
+Die erste Woche hat uns schon ordentlich unterhalten und die Messlatte für die kommenden Wochen hochgelegt. Wer wird sich als wahres Kraftpaket erweisen und wer wird sich im Fantasy-Gefängnis wiederfinden? Bleibt dran!
