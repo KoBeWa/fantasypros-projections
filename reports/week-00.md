@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-02-03T07:26:56.606Z"
+generated: "2026-02-10T07:39:49.063Z"
 ---
 
-Die erste Woche des Tim Tebow Tournaments 2025 ist vorbei und die Owner haben sich gleich ordentlich ins Zeug gelegt. Während einige glänzten, fanden andere schnell heraus, dass der Weg zum Titel steinig sein kann. Lass uns einen Blick auf die Action werfen!
+Die erste Woche im Tim Tebow Tournament war ein echter Knaller! Die Owner haben ihre Teams durch die Fantasy-Arena gejagt, und es gab bereits einige klare Ansagen. Lasst uns einen Blick darauf werfen, wer hier die ersten Duftmarken gesetzt hat!
 
-Benni setzte sich gegen Max durch, 120.34 zu 115.12, und bewies, dass er mehr als nur Glück im Spiel hat. Patrick Mahomes und Tyreek Hill waren die Stars des Abends, während Max wahrscheinlich noch darüber nachdenkt, ob die Entscheidung für seine Running Backs der richtige Weg war. Wenn seine Spieler so weiter machen, könnte er bald mehr Zeit mit dem Aufstellen seiner Line-Up verbringen als mit dem Feiern.
+Benni hat Ritz mit einem fulminanten 125.78 zu 98.56 besiegt, und das vor allem dank der explosiven Darbietung von Justin Fields, der die gegnerische Defense wie ein Kinderspielzeug auseinander nahm. Ritz sah aus, als ob er mit einer gemischten Mannschaft von verletzten Stars antreten würde – wann kommt dein Quarterback zurück, Ritz? 
 
-Simi ließ Tom mit einem klaren 130.45 zu 85.67 keine Chance und machte damit ordentlich Druck auf die Konkurrenz. Jalen Hurts und A.J. Brown waren nicht zu stoppen und schickten Tom ins Tal der Tränen. Vielleicht sollte Tom mal bei Simi nach Tipps fragen, wie man die Woche überlebt, ohne im Fantasy-Football-Koma zu landen.
+Simi hat sich mit einem soliden 112.34 zu 87.45 gegen Max durchgesetzt, wobei Derek Henry das Zepter schwang und die gegnerische Verteidigung wie ein Pudding zerdrückte. Max, dein Team hat vermutlich die ganze Woche in einer Netflix-Binge verbracht, denn die Leistung war einfach nicht da – vielleicht mal weniger Serien und mehr Fantasy-Analyse?
 
-Janisch warf sich gegen Lisa auf die Siegerstraße mit einem knappen 98.76 zu 97.45. Russell Wilson brachte die Punkte, aber auch Lisa hatte mit ihren Stars ordentlich zu kämpfen. Vielleicht sollte sie mal das Playbook ihrer Spieler überarbeiten, denn mit dieser Leistung wird es schwer, die Konkurrenz zu überholen.
+Lena hat Tim mit einem knappen 105.12 zu 102.00 geschlagen – das war ein Herzschlagfinale, das selbst die besten Thriller in den Schatten stellte. Der Star der Show war Jalen Hurts, der sich wie ein menschlicher Tornado durch die Defense fraß, während Tim wohl den Schock seines Lebens hatte, als sein Team nicht den Fuß vom Gas nahm, sondern gleich die ganze Bremse kaputt machte.
 
-Und schließlich sahen wir ein spannendes Duell zwischen Lukas und David, wo Lukas mit 112.97 zu 110.88 das Rennen machte. Mit einem starken Auftritt von Derrick Henry ließ er David im Regen stehen, der sich jetzt fragt, ob seine Spieler noch rechtzeitig aufwachen, bevor der Zug in den Playoffs abgefahren ist. Wenn sie nicht bald in die Puschen kommen, wird es für David eine lange Saison. 
+Clara hat sich mit einem klaren 95.67 zu 78.12 gegen Paul durchgesetzt, obwohl Pauls Starspieler Christian McCaffrey alles gegeben hat, was er hatte. Clara hingegen konnte sich auf eine starke Leistung von Tyreek Hill verlassen, der die Punkte wie ein Profi sammelte, während Paul wohl mit dem Gedanken kämpfte, ob er sein Team in die Quarantäne schicken sollte. 
 
-Die erste Woche hat uns schon ordentlich unterhalten und die Messlatte für die kommenden Wochen hochgelegt. Wer wird sich als wahres Kraftpaket erweisen und wer wird sich im Fantasy-Gefängnis wiederfinden? Bleibt dran!
+Die ersten Runden sind geschlagen, und die Owner haben bereits ihre Stärken und Schwächen aufgezeigt. Wer wird sich in der nächsten Woche behaupten können? Bleibt dran, denn das Drama geht weiter!
