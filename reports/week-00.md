@@ -1,16 +1,14 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-02-10T07:39:49.063Z"
+generated: "2026-02-17T07:33:21.862Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament war ein echter Knaller! Die Owner haben ihre Teams durch die Fantasy-Arena gejagt, und es gab bereits einige klare Ansagen. Lasst uns einen Blick darauf werfen, wer hier die ersten Duftmarken gesetzt hat!
+Die erste Woche des Tim Tebow Tournament hat uns gleich mit ein paar heißen Duellen überrascht – die Owner haben sich ordentlich ins Zeug gelegt, und die ersten Punkte sind auf dem Board. Es wird spannend, ob die Favoriten ihre Form halten können oder ob die Underdogs gleich für Furore sorgen.
 
-Benni hat Ritz mit einem fulminanten 125.78 zu 98.56 besiegt, und das vor allem dank der explosiven Darbietung von Justin Fields, der die gegnerische Defense wie ein Kinderspielzeug auseinander nahm. Ritz sah aus, als ob er mit einer gemischten Mannschaft von verletzten Stars antreten würde – wann kommt dein Quarterback zurück, Ritz? 
+Benni hat gegen Ritz kräftig auf die Kacke gehauen und ihn mit einem klaren 120.32 zu 89.65 in die Schranken gewiesen. Patrick Mahomes machte mit 30 Punkten das ganze Spiel über den Spielmacher, während Ritz’ Starspieler einfach nicht aus dem Quark kam – vielleicht sollte er mal einen Blick in den Spielbericht werfen, um zu sehen, was da schiefgelaufen ist.
 
-Simi hat sich mit einem soliden 112.34 zu 87.45 gegen Max durchgesetzt, wobei Derek Henry das Zepter schwang und die gegnerische Verteidigung wie ein Pudding zerdrückte. Max, dein Team hat vermutlich die ganze Woche in einer Netflix-Binge verbracht, denn die Leistung war einfach nicht da – vielleicht mal weniger Serien und mehr Fantasy-Analyse?
+Simi hat sich gegen Timo durchgesetzt, und das mit einem souveränen 115.75 zu 92.18. Justin Jefferson war mal wieder der Lichtblick und jagte 28 Punkte über das Feld, während Timos Truppe mehr wie ein Schatten ihrer selbst wirkte. Vielleicht sollte Timo seine Spieler mal zum Psychologen schicken – mit der Performance heute könnte ein Mentalcoach nicht schaden.
 
-Lena hat Tim mit einem knappen 105.12 zu 102.00 geschlagen – das war ein Herzschlagfinale, das selbst die besten Thriller in den Schatten stellte. Der Star der Show war Jalen Hurts, der sich wie ein menschlicher Tornado durch die Defense fraß, während Tim wohl den Schock seines Lebens hatte, als sein Team nicht den Fuß vom Gas nahm, sondern gleich die ganze Bremse kaputt machte.
+Markus hat gegen Jan einen knappen Sieg gefeiert, und das mit nur 5 Punkten Vorsprung: 102.58 zu 97.46. Der Sieg wurde dank Josh Allen und seiner 27 Punkte möglich, während Jan sich fragen muss, wie er mit einem so soliden McCaffrey und Chase einfach nicht über die Ziellinie kam. Die nächste Woche wird spannend: Wird Jan die Fehler abstellen oder bleibt er weiter im Schatten von Markus?
 
-Clara hat sich mit einem klaren 95.67 zu 78.12 gegen Paul durchgesetzt, obwohl Pauls Starspieler Christian McCaffrey alles gegeben hat, was er hatte. Clara hingegen konnte sich auf eine starke Leistung von Tyreek Hill verlassen, der die Punkte wie ein Profi sammelte, während Paul wohl mit dem Gedanken kämpfte, ob er sein Team in die Quarantäne schicken sollte. 
-
-Die ersten Runden sind geschlagen, und die Owner haben bereits ihre Stärken und Schwächen aufgezeigt. Wer wird sich in der nächsten Woche behaupten können? Bleibt dran, denn das Drama geht weiter!
+Schließlich hat Tobi gegen Flo ein wahres Schützenfest gefeiert und mit 122.45 zu 85.10 das Spielfeld dominiert. Derrick Henry war der unangefochtene MVP mit 35 Punkten, während Flo sich fragen sollte, ob seine Spieler auch wirklich beim Spiel sind oder vielleicht gerade im Urlaub. Wenn das so weitergeht, sollte Flo spätestens nächste Woche auf die Suche nach einem neuen Gameplan gehen!
