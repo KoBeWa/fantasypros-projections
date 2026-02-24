@@ -1,14 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-02-17T07:33:21.862Z"
+generated: "2026-02-24T07:33:47.959Z"
 ---
 
-Die erste Woche des Tim Tebow Tournament hat uns gleich mit ein paar heißen Duellen überrascht – die Owner haben sich ordentlich ins Zeug gelegt, und die ersten Punkte sind auf dem Board. Es wird spannend, ob die Favoriten ihre Form halten können oder ob die Underdogs gleich für Furore sorgen.
+Die erste Woche im Tim Tebow Tournament hat uns gleich ordentlich eingeheizt! Die Owner sind bereit, sich gegenseitig die Schaufel zu geben und die ersten Punkte auf dem Board zu sammeln. Schauen wir uns an, wie sich die Matches entwickelt haben!
 
-Benni hat gegen Ritz kräftig auf die Kacke gehauen und ihn mit einem klaren 120.32 zu 89.65 in die Schranken gewiesen. Patrick Mahomes machte mit 30 Punkten das ganze Spiel über den Spielmacher, während Ritz’ Starspieler einfach nicht aus dem Quark kam – vielleicht sollte er mal einen Blick in den Spielbericht werfen, um zu sehen, was da schiefgelaufen ist.
+Benni hat Ritz ganz schön das Wasser abgegraben und mit 105.34 zu 90.22 gesiegt. Patrick Mahomes ließ sich nicht lange bitten und hat den Ball so präzise geworfen, dass selbst die Verteidigung von Ritz nicht hinterherkam. Vielleicht sollte Ritz mal darüber nachdenken, seine Running Backs öfter zu füttern, anstatt sie auf Diät zu setzen.
 
-Simi hat sich gegen Timo durchgesetzt, und das mit einem souveränen 115.75 zu 92.18. Justin Jefferson war mal wieder der Lichtblick und jagte 28 Punkte über das Feld, während Timos Truppe mehr wie ein Schatten ihrer selbst wirkte. Vielleicht sollte Timo seine Spieler mal zum Psychologen schicken – mit der Performance heute könnte ein Mentalcoach nicht schaden.
+Simi hat mit einem fulminanten Auftritt gegen Felix auf sich aufmerksam gemacht und ihn mit 113.76 zu 83.15 ordentlich vermöbelt. Jalen Hurts und A.J. Brown haben zusammen eine Show abgezogen, die selbst die Zuschauer der NFL neidisch gemacht hätte. Felix hingegen könnte mit seinen Spielern eine eigene „Ghostbusters“-Episode drehen, denn seine Punkte sind einfach nicht aufgetaucht.
 
-Markus hat gegen Jan einen knappen Sieg gefeiert, und das mit nur 5 Punkten Vorsprung: 102.58 zu 97.46. Der Sieg wurde dank Josh Allen und seiner 27 Punkte möglich, während Jan sich fragen muss, wie er mit einem so soliden McCaffrey und Chase einfach nicht über die Ziellinie kam. Die nächste Woche wird spannend: Wird Jan die Fehler abstellen oder bleibt er weiter im Schatten von Markus?
+Dustin hat sich gegen Timo durchgesetzt und ihm mit 98.55 zu 92.01 einen kleinen Dämpfer verpasst. Derrick Henry hat da ordentlich aufgeräumt und dafür gesorgt, dass Timo nicht so recht ins Spiel fand. Vielleicht sollte Timo mal seine Aufstellung überdenken, denn das war mehr ein Abtauchen als ein Aufblühen.
 
-Schließlich hat Tobi gegen Flo ein wahres Schützenfest gefeiert und mit 122.45 zu 85.10 das Spielfeld dominiert. Derrick Henry war der unangefochtene MVP mit 35 Punkten, während Flo sich fragen sollte, ob seine Spieler auch wirklich beim Spiel sind oder vielleicht gerade im Urlaub. Wenn das so weitergeht, sollte Flo spätestens nächste Woche auf die Suche nach einem neuen Gameplan gehen!
+Und schließlich hat sich Jakob gegen Max durchgesetzt, der mit 120.75 zu 85.10 deutlich zu kurz kam. Josh Allen hat gezeigt, warum er als einer der besten Quarterbacks gilt und Max’ Träume von einem perfekten Start in die Saison zerplatzen lassen. Max sollte sich vielleicht mal überlegen, ob er nicht ins Yoga geht, um die Enttäuschung etwas zu verarbeiten.
+
+Mit dieser ersten Woche hat die Liga gleich mal ordentlich Tempo aufgenommen. Die Owner sind hungrig nach mehr, und die Playoffs scheinen schon jetzt in greifbare Nähe!
