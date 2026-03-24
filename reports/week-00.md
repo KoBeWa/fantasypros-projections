@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-03-17T07:37:01.829Z"
+generated: "2026-03-24T07:37:18.473Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament war wie ein aufgeregtes Aufeinandertreffen in der ersten Runde eines K.O.-Turniers – viel Geschrei, jede Menge Drama und einige schockierende Ergebnisse. Die Owner haben ihre Klingen geschärft, und die ersten Punkte wurden auf die Tafel geschrieben!
+Die erste Woche des Tim Tebow Tournaments hat uns gleich mal gezeigt, wer in dieser Liga die Hosen anhat und wer vielleicht doch noch ein paar Lektionen lernen muss. Die Owner sind bereit, ihre Ansprüche auf den Titel klarzustellen – und das hat ordentlich geknallt!
 
-Benni hat Ritz mit einem knappen 102.34 zu 98.76 besiegt, und das lag vor allem an der starken Leistung von Justin Jefferson, der sich wie ein Superstar präsentierte. Ritz wird sich fragen, wie er die Punkte von seinem Quarterback hätte besser nutzen können, aber hey, ein paar mehr Pass-Yards und es hätte ganz anders ausgehen können.
+Benni hat Ritz mit einem klaren 120.34 zu 95.67 abserviert. Während Benni sich auf die starken Leistungen von Patrick Mahomes und Tyreek Hill verlassen konnte, scheint Ritz‘ Team einfach nicht in die Gänge zu kommen. Vielleicht sollte Ritz mal über ein neues Spielsystem nachdenken, denn die einzige Konstanz, die er zeigt, ist das ständige Verpassen der Playoffs.
 
-Simi hat sich gegen Max mit 115.45 zu 89.32 durchgesetzt und dabei einen echten Feuerwerk von Patrick Mahomes abgebrannt. Max’ Team sah aus, als würde es in der ersten Runde des Drafts feststecken, während Simi den echten MVP auf dem Feld hatte – das wird nächste Woche definitiv nicht einfacher für Max.
+Simi hat sich gegen Klaus durchgesetzt und dabei einen beeindruckenden 115.45 zu 88.72 Sieg eingefahren. Simi konnte sich auf die gewohnte Power von Derrick Henry verlassen, während Klaus‘ Mannschaft sich eher wie ein schüchterner Neuling in der Highschool präsentierte. Wenn Klaus nicht bald aufdreht, könnte er schnell zum Liebling der Liga für die falschen Gründe werden.
 
-Dustin hat mit einem beeindruckenden 125.67 zu 91.12 gegen Lukas gewonnen und bewiesen, dass er nicht nur im Draft ein Auge für Talente hat. Jalen Hurts war der Hauptgrund für den Sieg und ließ Lukas‘ Defense wie einen Schweizer Käse aussehen. Lukas wird sich fragen, wo die Punkte geblieben sind, während Dustin sich schon auf die nächste Runde freut.
+Lena hat die Führung gegen Max übernommen und ihn mit 105.22 zu 90.12 abgehängt. Mit einer herausragenden Leistung von Josh Allen und DeAndre Hopkins war es für Lena ein Spaziergang im Park, während Max sich fragt, wo seine Punkte abgeblieben sind. Vielleicht sollte er mal mit Lena über ihre Geheimwaffen plaudern – oder einfach mal seine Aufstellung überdenken.
 
-Jonas hat gegen Chris mit 108.23 zu 95.10 triumphiert, und das verdankt er einem überragenden Auftritt von Tyreek Hill, der regelmäßig die Defense zerlegte. Chris wird sich fragen, ob er die richtige Aufstellung getroffen hat oder ob er einfach nur Pech hatte – in jedem Fall ist Jonas jetzt derjenige, den es zu schlagen gilt!
+Tim hat sich mit einem 110.05 zu 80.33 gegen Felix durchgesetzt und dabei eindrucksvoll gezeigt, wo der Hammer hängt. Mit einer soliden Vorstellung von Travis Kelce und einer starken Defense hat Tim Felix keine Chance gelassen. Felix sollte vielleicht darüber nachdenken, ob seine Spieler nicht lieber einen anderen Sport ausprobieren wollen – vielleicht Strumpfziehen? 
 
-Die ersten Wochen haben bereits die Spreu vom Weizen getrennt, und während einige Owner jubeln, wird es für andere höchste Zeit, sich zu schütteln und den Fokus zu finden. Die Saison ist noch jung, doch die Messlatte wurde schon ordentlich hochgelegt!
+Die Woche 0 hat die Messlatte bereits hochgelegt, und die Owner sind bereit, sich für die kommenden Wochen noch mehr ins Zeug zu legen! Wer wird die nächsten Wochen überstehen, und wer wird zum Gejagten? Bleibt dran!
