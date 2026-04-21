@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-04-14T08:12:05.478Z"
+generated: "2026-04-21T08:18:38.482Z"
 ---
 
-Die erste Woche des Tim Tebow Tournaments 2026 hat uns gleich mal ordentlich eingeheizt und die Spannung auf die kommenden Matchups deutlich gemacht. Einige Owner konnten bereits zeigen, dass sie bereit sind, die Konkurrenz zu dominieren, während andere wohl noch den Staub von der Offseason abklopfen müssen.
+Die erste Woche im Tim Tebow Tournament hat uns gleich ordentlich eingeheizt! Die Owner haben sich nichts geschenkt, und die ersten Punkte sind gefallen. Schauen wir mal, wer in dieser ersten Runde glänzen konnte und wer gleich mal den Rückenwind verloren hat.
 
-Benni hat Ritz in einem packenden Duell mit 105.34 zu 98.76 besiegt, und das, obwohl Ritz‘ Starspieler Justin Herbert sein Bestes gab. Benni konnte sich auf die starke Leistung von Tyreek Hill verlassen, der die Defense von Ritz schwindelig spielte. Ein kleiner Tipp an Ritz: Vielleicht mal die Defense hinter die Offense stellen, dann klappt's auch besser!
+Benni hat sich gegen Ritz durchgesetzt und dabei eindrucksvoll 115.48 Punkte gesammelt. Josh Allen hat mal wieder bewiesen, dass er die Defense der Gegner mit seinem unberechenbaren Spielstil schwindelig machen kann. Ritz wird sich fragen, ob er nicht doch einen anderen QB hätte einsetzen sollen – vielleicht einen, der nicht nur im Schatten von Allen spielt.
 
-Simi hat sich gegen Tim mit 120.45 zu 85.32 durchgesetzt und damit gleich mal ein Statement gesetzt. Jalen Hurts und A.J. Brown haben das ganze Spielfeld gerockt und die Punkte wie Konfetti verteilt. Tim hingegen wird sich fragen, warum er nicht einfach den Kicker als Quarterback aufgestellt hat – der hat immerhin mehr Punkte gemacht als seine Offense.
+Simi hat sich mit einem klaren 128.36 zu 98.12 gegen Timo durchgesetzt und dabei Mahomes und St. Brown auf die Reise geschickt. Während Simi wie ein Champ jubeln kann, wird Timo wohl noch etwas länger über seine Aufstellung nachdenken müssen – ein paar mehr Punkte von seinen Stars wären nicht schlecht gewesen, oder? 
 
-Max hat gegen Leo gewonnen, 98.12 zu 82.56, und dabei die Frage aufgeworfen, ob Leos Spieler nicht einfach ein Nickerchen auf dem Feld gehalten haben. Josh Allen hat Max zum Sieg getragen, während Leo sich über eine unterirdische Leistung von seiner gesamten Mannschaft ärgern durfte. Vielleicht sollte Leo die nächste Woche mal mit einem Kaffee und einem strategischen Plan beginnen.
+Max hat Dreggsverein mit 110.68 zu 85.34 das Nachsehen gegeben und dabei eindrucksvoll die Laufwege von McCaffrey ausgenutzt. Dreggsverein wird sich ärgern, dass sie nicht rechtzeitig die richtigen Plays gezogen haben – vielleicht wird es Zeit für einen Strategiewechsel? 
 
-Schließlich hat auch Alex gegen Chris mit 111.68 zu 100.11 triumphiert. Patrick Mahomes war der Schlüssel zum Erfolg, während Chris‘ Team anscheinend noch im Winterschlaf war. Vielleicht hilft ein Motivationsvideo für Chris, um aus der nächsten Woche mehr herauszuholen.
+Zu guter Letzt hat Lukas gegen Juschka mit 102.54 zu 90.47 gewonnen, und das dank eines starken Auftritts von Derrick Henry. Juschka hat sich wohl auf die falschen Spieler verlassen, denn die einzige Konstanz in seiner Aufstellung war die Unkonstanz. Ein Blick auf die Bench hätte vielleicht schon gereicht, um den ersten Sieg zu sichern! 
 
-Die erste Woche hat bereits gezeigt, dass die Liga in dieser Saison spannend wird – jetzt heißt es für die Verlierer: Aufstehen, Krone richten und den nächsten Gegner mit voller Kraft angreifen!
+Die erste Woche hat gezeigt: Hier wird um jeden Punkt gekämpft, und die Konkurrenz schläft nicht. Wer wird sich in der nächsten Runde durchsetzen?
