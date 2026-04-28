@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-04-21T08:18:38.482Z"
+generated: "2026-04-28T09:03:45.222Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament hat uns gleich ordentlich eingeheizt! Die Owner haben sich nichts geschenkt, und die ersten Punkte sind gefallen. Schauen wir mal, wer in dieser ersten Runde glänzen konnte und wer gleich mal den Rückenwind verloren hat.
+Die erste Woche des Tim Tebow Tournaments 2026 hat uns schon mal einen Vorgeschmack auf die Dramatik und den Trash Talk, den die Saison mit sich bringen wird. Die Owner sind hungrig nach Siegen und bereit, ihre Gegner in die Schranken zu weisen.
 
-Benni hat sich gegen Ritz durchgesetzt und dabei eindrucksvoll 115.48 Punkte gesammelt. Josh Allen hat mal wieder bewiesen, dass er die Defense der Gegner mit seinem unberechenbaren Spielstil schwindelig machen kann. Ritz wird sich fragen, ob er nicht doch einen anderen QB hätte einsetzen sollen – vielleicht einen, der nicht nur im Schatten von Allen spielt.
+Benni hat Ritz mit einem knappen 102.34 zu 99.76 besiegt und dabei gezeigt, dass er nicht nur im echten Leben das Zepter schwingen kann. Mit einem glänzenden Auftritt von Justin Herbert, der den Ball wie ein Pro auf die Zielscheibe wirft, hat Benni das Spiel für sich entschieden, während Ritz sich fragt, wie sein Team nur so viele Punkte liegen lassen konnte.
 
-Simi hat sich mit einem klaren 128.36 zu 98.12 gegen Timo durchgesetzt und dabei Mahomes und St. Brown auf die Reise geschickt. Während Simi wie ein Champ jubeln kann, wird Timo wohl noch etwas länger über seine Aufstellung nachdenken müssen – ein paar mehr Punkte von seinen Stars wären nicht schlecht gewesen, oder? 
+Simi hat gegen Timo einen klaren 118.45 zu 87.22 Sieg eingefahren. Patrick Mahomes und Tyreek Hill haben die Konkurrenz regelrecht überrollt und Timo beim Zuschauen die Schamesröte ins Gesicht getrieben. Da hat's nicht nur am Scoreboard gekracht, sondern auch in Timons Fantasy-Herzen.
 
-Max hat Dreggsverein mit 110.68 zu 85.34 das Nachsehen gegeben und dabei eindrucksvoll die Laufwege von McCaffrey ausgenutzt. Dreggsverein wird sich ärgern, dass sie nicht rechtzeitig die richtigen Plays gezogen haben – vielleicht wird es Zeit für einen Strategiewechsel? 
+Sophie hat sich gegen Max mit 95.60 zu 89.34 durchgesetzt und bewiesen, dass auch auf dem Fantasy-Feld Frauenpower gefragt ist. Jalen Hurts hat sie mit seinen Punkten über die Ziellinie getragen, während Max sich fragt, ob seine Running Backs eigentlich nur auf dem Feld stehen, um die Rasenfläche zu schonen.
 
-Zu guter Letzt hat Lukas gegen Juschka mit 102.54 zu 90.47 gewonnen, und das dank eines starken Auftritts von Derrick Henry. Juschka hat sich wohl auf die falschen Spieler verlassen, denn die einzige Konstanz in seiner Aufstellung war die Unkonstanz. Ein Blick auf die Bench hätte vielleicht schon gereicht, um den ersten Sieg zu sichern! 
+Lukas hat gegen Niko mit 112.89 zu 85.50 gewonnen und damit seinen Anspruch auf die Meisterschaft unterstrichen. Mit einem starken Auftritt von Derrick Henry hat Lukas die Defense von Niko schwindelig gespielt. Niko hingegen wird sich wohl fragen, ob seine Spieler echt oder nur die Schatten ihrer selbst waren. 
 
-Die erste Woche hat gezeigt: Hier wird um jeden Punkt gekämpft, und die Konkurrenz schläft nicht. Wer wird sich in der nächsten Runde durchsetzen?
+Die ersten Matches sind gespickt mit Spannung und Drama – die Liga ist bereit, und die Owner sind hungrig nach mehr. Wer wird in Woche 1 die Nase vorn haben? Das bleibt abzuwarten!
