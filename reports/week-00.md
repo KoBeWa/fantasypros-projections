@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-04-28T09:03:45.222Z"
+generated: "2026-05-05T08:34:34.020Z"
 ---
 
-Die erste Woche des Tim Tebow Tournaments 2026 hat uns schon mal einen Vorgeschmack auf die Dramatik und den Trash Talk, den die Saison mit sich bringen wird. Die Owner sind hungrig nach Siegen und bereit, ihre Gegner in die Schranken zu weisen.
+Die erste Woche im Tim Tebow Tournament hat uns gleich ordentlich eingeheizt! Die Owner haben sich keine Blöße gegeben und gleich zu Beginn der Saison gezeigt, wer hier das Sagen hat.
 
-Benni hat Ritz mit einem knappen 102.34 zu 99.76 besiegt und dabei gezeigt, dass er nicht nur im echten Leben das Zepter schwingen kann. Mit einem glänzenden Auftritt von Justin Herbert, der den Ball wie ein Pro auf die Zielscheibe wirft, hat Benni das Spiel für sich entschieden, während Ritz sich fragt, wie sein Team nur so viele Punkte liegen lassen konnte.
+Benni hat Ritz mit einem knappen 102.34 zu 98.76 besiegt, dabei konnte er sich auf die starke Leistung von Josh Allen verlassen, der mal wieder für Furore sorgte. Ritz hat zwar eine soliden Auftritt von Christian McCaffrey hingelegt, aber das reichte nicht aus, um gegen Bennis Offensive zu bestehen. Vielleicht sollte Ritz mal in der nächsten Woche die Playbook-Klatscherei einstellen und sich mehr auf das Wesentliche konzentrieren.
 
-Simi hat gegen Timo einen klaren 118.45 zu 87.22 Sieg eingefahren. Patrick Mahomes und Tyreek Hill haben die Konkurrenz regelrecht überrollt und Timo beim Zuschauen die Schamesröte ins Gesicht getrieben. Da hat's nicht nur am Scoreboard gekracht, sondern auch in Timons Fantasy-Herzen.
+Simi hat mit einem klaren 115.20 zu 85.50 gegen Alex triumphiert, und die beiden Quarterbacks hätten nicht unterschiedlicher sein können. Während Simi auf Patrick Mahomes setzte, der die gegnerische Defense zerlegte, musste Alex sich mit einem blassen Auftritt von Dak Prescott begnügen. Vielleicht sollte Alex mal einen Blick auf die Waiver Wire werfen – da könnte sich was finden, um die Offensive aufzupeppen.
 
-Sophie hat sich gegen Max mit 95.60 zu 89.34 durchgesetzt und bewiesen, dass auch auf dem Fantasy-Feld Frauenpower gefragt ist. Jalen Hurts hat sie mit seinen Punkten über die Ziellinie getragen, während Max sich fragt, ob seine Running Backs eigentlich nur auf dem Feld stehen, um die Rasenfläche zu schonen.
+Tim hat sich mit einem 110.45 zu 87.32 über Max hinweg gesetzt, und das dank einer starken Performance von A.J. Brown, der die Secondary einfach im Stich ließ. Max kann sich allerdings nicht über die schwache Vorstellung von seinen Running Backs hinwegtrösten; die haben sich mehr versteckt als die Socken in der Waschmaschine. Ein klarer Fall von „Schau mal, was die anderen machen“, könnte für Max der Weg zum Erfolg sein.
 
-Lukas hat gegen Niko mit 112.89 zu 85.50 gewonnen und damit seinen Anspruch auf die Meisterschaft unterstrichen. Mit einem starken Auftritt von Derrick Henry hat Lukas die Defense von Niko schwindelig gespielt. Niko hingegen wird sich wohl fragen, ob seine Spieler echt oder nur die Schatten ihrer selbst waren. 
+Und schließlich hat Chris mit einem soliden 97.65 zu 90.12 gegen Lars gewonnen, wobei der Unterschied in der Performance von DeAndre Hopkins lag, der sich wie ein alter Hase präsentierte. Lars hingegen konnte mit seinem Starspieler nicht mal das Wasser reichen und wird sich jetzt fragen, ob die richtige Aufstellung wirklich die richtige war. Vielleicht hilft ein bisschen mehr Teamgeist – oder ein kleiner Blick in die Glaskugel.
 
-Die ersten Matches sind gespickt mit Spannung und Drama – die Liga ist bereit, und die Owner sind hungrig nach mehr. Wer wird in Woche 1 die Nase vorn haben? Das bleibt abzuwarten!
+Die erste Woche hat uns also schon gezeigt, dass wir mit Spannung in die nächsten Runden gehen können. Wer wird das nächste Mal die Show stehlen? Die Zeit wird es zeigen!
