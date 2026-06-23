@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-06-16T11:42:21.330Z"
+generated: "2026-06-23T10:12:05.725Z"
 ---
 
-Die Saison 2026 im Tim Tebow Tournament hat endlich begonnen und die Owner sind bereit, sich gegenseitig die Schaufel zu geben. Die erste Woche hat bereits einige spannende Begegnungen geliefert, und die Luft ist voller Trash Talk und siegreicher Ambitionen.
+Die erste Woche im Tim Tebow Tournament hat es gleich in sich: Die Owner sind heiß darauf, ihre Dominanz zu zeigen, und einige haben sich bereits als ernsthafte Anwärter auf den Titel positioniert. Während andere noch auf der Suche nach ihrem ersten Sieg sind – und vielleicht auch nach einem funktionierenden Quarterback.
 
-Benni setzte sich gegen Ritz durch und ließ ihn mit 102.45 zu 89.67 bluten. Mit einem beeindruckenden Auftritt von Joe Burrow und einer soliden Leistung von Tyreek Hill hat Benni gezeigt, dass er dieses Jahr ernst macht. Ritz hingegen wird sich fragen, ob sein Kader mehr als nur ein paar Namen zu bieten hat, denn die Performance war alles andere als überzeugend.
+Benni hat Ritz mit einem knappen 102.34 zu 98.76 geschlagen, und das dank einer überragenden Leistung von A.J. Brown, der sich als wahrer Gamechanger erwies. Ritz kann sich sicher sein, dass er seine Spieler nicht einfach nur auf dem Feld stehen lassen kann, denn auch Patrick Mahomes war nicht genug, um die Wende herbeizuführen. Ein weiterer Schock für Ritz: Wenn es um das Gewinnen geht, zählt nicht nur der Star, sondern auch die Unterstützung der anderen.
 
-Simi hat sich gegen Lars durchgesetzt und ihm mit 95.32 zu 82.14 eine saftige Klatsche verpasst. Während Simi dank Jalen Hurts und A.J. Brown ordentlich punkten konnte, blieb Lars' Team auf dem Platz so blass wie ein ungewürztes Hähnchen. Vielleicht sollte Lars mal über einen Wechsel in der Aufstellung nachdenken, bevor er sich endgültig von der Konkurrenz abkoppelt.
+Simi hat sich gegen Max durchgesetzt und das mit einem klaren 115.67 zu 89.45. Justin Jefferson und Derrick Henry haben Simi zum Sieg getragen und Max das Gefühl gegeben, dass seine Spieler mehr auf der Bank sitzen als auf dem Feld. Max wird sich fragen, ob seine Strategie mit den Running Backs wirklich so klug war, während Simi sich zurücklehnen und auf die nächste Runde freuen kann.
 
-Ich kann es kaum glauben, aber auch Timmy hat seinen ersten Sieg eingefahren, als er gegen Max mit 88.67 zu 76.45 die Oberhand behielt. Das Duo aus Patrick Mahomes und Davante Adams hat Timmy ins Ziel getragen, während Max mit seinem Kader eher wie ein Schatten seiner selbst wirkte. Vielleicht sollte Max einfach mal einen Blick auf die Waiver Wire werfen, bevor seine Saison in den Keller geht.
+Lena hat sich gegen Tom in einem spannenden Duell durchgesetzt, das mit 110.12 zu 104.23 endete. Mit einer starken Vorstellung von Joe Burrow und Davante Adams hat Lena die Oberhand behalten, während Tom, trotz einer soliden Leistung von Tyreek Hill, zum Zuschauen verdammt war. Tom kann nur hoffen, dass sein Team in der nächsten Woche aufwacht und nicht wie das letzte Stück Kuchen nach der Party zurückgelassen wird.
 
-Und zu guter Letzt hat Felix gegen Niklas mit 104.12 zu 91.78 triumphiert. Felix' Superstar-Runde von Justin Jefferson war ein echter Gamechanger und hat Niklas gezeigt, dass er sich warm anziehen muss, wenn er in dieser Liga mithalten will. Niklas wird sich fragen, ob seine Spieler in der ersten Woche noch im Winterschlaf waren, denn die Leistung war einfach nicht ausreichend. 
+Schließlich hat Paul mit einem klaren 97.45 zu 88.55 gegen Alex gewonnen. Kyler Murray hat Paul die nötigen Punkte gebracht, während Alex sich fragt, ob seine Spieler noch im Urlaub sind. Wenn das so weitergeht, wird Alex bald einen Rekord aufstellen, und zwar für die meisten „Was wäre wenn“-Fragen in einer Saison. 
 
-Die erste Woche hat uns bereits einen Vorgeschmack auf die Rivalitäten gegeben – die nächsten Matchups versprechen noch mehr Drama und Spannung!
+Die erste Woche hat die Karten neu gemischt, und die Owner sind bereit, sich gegenseitig zu übertrumpfen. Die nächsten Matches versprechen noch mehr Spannung und Trash Talk – lasst uns sehen, wer sich durchsetzen kann!
