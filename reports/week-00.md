@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-06-23T10:12:05.725Z"
+generated: "2026-06-30T10:08:44.942Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament hat es gleich in sich: Die Owner sind heiß darauf, ihre Dominanz zu zeigen, und einige haben sich bereits als ernsthafte Anwärter auf den Titel positioniert. Während andere noch auf der Suche nach ihrem ersten Sieg sind – und vielleicht auch nach einem funktionierenden Quarterback.
+Die erste Woche im Tim Tebow Tournament 2026 ist vorbei und die Owner haben gleich mal gezeigt, wo der Hammer hängt. Einige sind wie eine gut geölte Maschine gestartet, während andere wie ein verrosteter Traktor durch die Gegend ruckeln. 
 
-Benni hat Ritz mit einem knappen 102.34 zu 98.76 geschlagen, und das dank einer überragenden Leistung von A.J. Brown, der sich als wahrer Gamechanger erwies. Ritz kann sich sicher sein, dass er seine Spieler nicht einfach nur auf dem Feld stehen lassen kann, denn auch Patrick Mahomes war nicht genug, um die Wende herbeizuführen. Ein weiterer Schock für Ritz: Wenn es um das Gewinnen geht, zählt nicht nur der Star, sondern auch die Unterstützung der anderen.
+Benni hat Ritz ordentlich die Leviten gelesen und ihn mit 112.34 zu 85.12 abgefertigt. Patrick Mahomes war mal wieder der Lichtblick im Dunkel und führte Benni an die Spitze, während Ritz sich fragt, wo seine Punkte geblieben sind – vielleicht sollte er mal einen Blick in die Spielerliste werfen, bevor der nächste Trade kommt.
 
-Simi hat sich gegen Max durchgesetzt und das mit einem klaren 115.67 zu 89.45. Justin Jefferson und Derrick Henry haben Simi zum Sieg getragen und Max das Gefühl gegeben, dass seine Spieler mehr auf der Bank sitzen als auf dem Feld. Max wird sich fragen, ob seine Strategie mit den Running Backs wirklich so klug war, während Simi sich zurücklehnen und auf die nächste Runde freuen kann.
+Simi hat gegen Max ein echtes Feuerwerk abgebrannt und siegte mit 125.67 zu 90.45. Jalen Hurts und A.J. Brown haben Simi wie ein gut eingespieltes Duo ins Ziel getragen, während Max sich fragt, ob seine Spieler vielleicht im Stau stecken geblieben sind. Es sieht so aus, als müsste er dringend einen neuen GPS-Tracker für sein Team besorgen.
 
-Lena hat sich gegen Tom in einem spannenden Duell durchgesetzt, das mit 110.12 zu 104.23 endete. Mit einer starken Vorstellung von Joe Burrow und Davante Adams hat Lena die Oberhand behalten, während Tom, trotz einer soliden Leistung von Tyreek Hill, zum Zuschauen verdammt war. Tom kann nur hoffen, dass sein Team in der nächsten Woche aufwacht und nicht wie das letzte Stück Kuchen nach der Party zurückgelassen wird.
+Tim hat gegen Felix eine knappe Kiste hingelegt und siegte mit 99.75 zu 97.44 – das war so spannend, dass selbst die Zuschauer ein wenig Angst um ihr Herz hatten. Justin Jefferson war der entscheidende Mann für Tim, während Felix sich nach einem soliden Auftritt von Derrick Henry sehnt. Vielleicht sollte Felix mal nach den Röntgenbildern seiner Spieler fragen, denn das war alles andere als überzeugend.
 
-Schließlich hat Paul mit einem klaren 97.45 zu 88.55 gegen Alex gewonnen. Kyler Murray hat Paul die nötigen Punkte gebracht, während Alex sich fragt, ob seine Spieler noch im Urlaub sind. Wenn das so weitergeht, wird Alex bald einen Rekord aufstellen, und zwar für die meisten „Was wäre wenn“-Fragen in einer Saison. 
+Zu guter Letzt hat Alex die Herausforderung von Luca mit 105.02 zu 88.15 gemeistert. Kyler Murray und Tyreek Hill waren die Stars auf dem Platz und haben Alex den Sieg gesichert, während Luca sich fragt, ob seine Spieler beim Aufwärmen einen Auftritt im Zirkus eingelegt haben. Es wird Zeit, dass Luca die Zirkusnummer in den Griff bekommt, bevor die nächste Woche ansteht. 
 
-Die erste Woche hat die Karten neu gemischt, und die Owner sind bereit, sich gegenseitig zu übertrumpfen. Die nächsten Matches versprechen noch mehr Spannung und Trash Talk – lasst uns sehen, wer sich durchsetzen kann!
+Die erste Woche hat bereits für Aufregung gesorgt und die Owner sind heiß auf mehr. Die Jagd nach dem Titel hat gerade erst begonnen!
