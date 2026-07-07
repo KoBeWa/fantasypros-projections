@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-06-30T10:08:44.942Z"
+generated: "2026-07-07T10:06:38.767Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament 2026 ist vorbei und die Owner haben gleich mal gezeigt, wo der Hammer hängt. Einige sind wie eine gut geölte Maschine gestartet, während andere wie ein verrosteter Traktor durch die Gegend ruckeln. 
+Die erste Woche im Tim Tebow Tournament ist endlich da und die Owner sind heiß wie Frittenfett! Hier sind die ersten Aufeinandertreffen, die uns gleich zeigen, wer in dieser Saison das Sagen hat und wer sich besser auf die Couch setzen sollte.
 
-Benni hat Ritz ordentlich die Leviten gelesen und ihn mit 112.34 zu 85.12 abgefertigt. Patrick Mahomes war mal wieder der Lichtblick im Dunkel und führte Benni an die Spitze, während Ritz sich fragt, wo seine Punkte geblieben sind – vielleicht sollte er mal einen Blick in die Spielerliste werfen, bevor der nächste Trade kommt.
+Benni hat Ritz ordentlich das Fürchten gelehrt und mit einem klaren 105.32 zu 88.14 die ersten Punkte eingefahren. Kyler Murray war der Star der Show und ließ Ritz’ Defense wie einen Haufen Amateure aussehen. Wenn Ritz nicht bald aufwacht, wird er sich die nächsten Wochen mit dem Gedanken an seine Fantasy-Diät herumschlagen müssen.
 
-Simi hat gegen Max ein echtes Feuerwerk abgebrannt und siegte mit 125.67 zu 90.45. Jalen Hurts und A.J. Brown haben Simi wie ein gut eingespieltes Duo ins Ziel getragen, während Max sich fragt, ob seine Spieler vielleicht im Stau stecken geblieben sind. Es sieht so aus, als müsste er dringend einen neuen GPS-Tracker für sein Team besorgen.
+Simi setzte sich in einem packenden Duell gegen Max durch, mit einem knappen 98.76 zu 95.20. Jalen Hurts war der Gamechanger für Simi und ließ Max’ Hoffnungen wie einen Luftballon in der Sonne platzen. Max sollte vielleicht mal überlegen, ob er nicht ein paar neue Spieler braucht, denn die aktuellen scheinen mehr mit dem Aufwärmen als mit dem Punkten beschäftigt zu sein.
 
-Tim hat gegen Felix eine knappe Kiste hingelegt und siegte mit 99.75 zu 97.44 – das war so spannend, dass selbst die Zuschauer ein wenig Angst um ihr Herz hatten. Justin Jefferson war der entscheidende Mann für Tim, während Felix sich nach einem soliden Auftritt von Derrick Henry sehnt. Vielleicht sollte Felix mal nach den Röntgenbildern seiner Spieler fragen, denn das war alles andere als überzeugend.
+Timmy hat gegen Lenny einen klaren 112.50 zu 75.80 Sieg eingefahren und dabei die gesamte Liga aufhorchen lassen. Christian McCaffrey und Tyreek Hill waren die Motoren für Timmy und ließen Lenny alt aussehen. Wenn Lenny nicht bald seinen Spielplan überarbeitet, wird er am Ende mehr Zeit mit dem Suchen von Ausreden verbringen als mit dem Gewinnen.
 
-Zu guter Letzt hat Alex die Herausforderung von Luca mit 105.02 zu 88.15 gemeistert. Kyler Murray und Tyreek Hill waren die Stars auf dem Platz und haben Alex den Sieg gesichert, während Luca sich fragt, ob seine Spieler beim Aufwärmen einen Auftritt im Zirkus eingelegt haben. Es wird Zeit, dass Luca die Zirkusnummer in den Griff bekommt, bevor die nächste Woche ansteht. 
+Und schließlich hat Timo gegen Felix mit einem 101.45 zu 89.99 triumphiert und damit einen wichtigen Sieg eingefahren. Patrick Mahomes bewies einmal mehr, dass er ein echter Superstar ist und Felix mit seinen Punkten das Wasser abgegraben hat. Felix wird sich fragen müssen, ob seine Spieler nicht lieber im Urlaub wären, denn auf dem Feld waren sie heute jedenfalls nicht zu sehen.
 
-Die erste Woche hat bereits für Aufregung gesorgt und die Owner sind heiß auf mehr. Die Jagd nach dem Titel hat gerade erst begonnen!
+Die ersten Matches haben uns gezeigt, dass die Liga wieder heiß hergeht und die Owner bereit sind, alles zu geben. Wer wird in der nächsten Woche seine Form finden und wer muss sich am Ende der Saison mit dem letzten Platz abfinden? Bleibt dran!
