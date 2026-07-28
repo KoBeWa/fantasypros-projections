@@ -1,14 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-07-21T09:11:47.656Z"
+generated: "2026-07-28T09:18:44.398Z"
 ---
 
-Die Woche 0 im Tim Tebow Tournament hat uns gleich zu Beginn einige spannende Duelle geliefert, die den Fans das Wasser im Mund zusammenlaufen lassen. Die Owner scheinen bereit, sich in dieser Saison ordentlich zu messen und die ersten Punkte zu sammeln.
+Die Spannung in der ersten Woche des Tim Tebow Tournaments war förmlich zum Greifen! Die Owner haben sich ordentlich ins Zeug gelegt, um gleich zu Beginn der Saison ihre Ansprüche auf den Titel geltend zu machen. Hier sind die Highlights der ersten Matchups!
 
-Benni hat Ritz mal so richtig die Leviten gelesen und mit 125.34 zu 97.45 abgeräumt. Josh Allen hat sich nicht lumpen lassen und mit seiner typischen Unberechenbarkeit den Gegner schwindelig gespielt. Ritz wird sich fragen, ob er nicht besser auf die Defense von San Francisco hätte setzen sollen, denn die hätten ihm vielleicht die nötigen Punkte liefern können.
+Benni hat Ritz richtig in die Schranken gewiesen und sich mit einem knappen 105.34 zu 102.67 durchgesetzt. Der Star des Abends war ganz klar Jalen Hurts, der mit seinem explosiven Spiel Ritz’ Hoffnungen auf den ersten Sieg im Keim erstickte. Ritz kann sich jetzt schon überlegen, wie er seinen QB-Frust in der nächsten Woche bewältigen wird – vielleicht mit einem neuen Quarterback?
 
-Simi hat sich gegen Tim durchgesetzt und mit 110.12 zu 89.67 einen soliden Start hingelegt. Patrick Mahomes war der Kapitän auf diesem Schiff und hat die Offensive dermaßen dirigiert, dass Tim wahrscheinlich noch über die Wellen der Enttäuschung schwimmt. Vielleicht sollte Tim sich ein paar neue Strategies einfallen lassen, wenn er nicht in der nächsten Woche an die Wand gespielt werden möchte.
+Simi hat es geschafft, die Konkurrenz mit einer beeindruckenden Leistung von 112.45 zu 88.90 zu überfahren. Justin Jefferson und Tyreek Hill haben gemeinsam das Spielfeld gerockt und Simi zum verdienten Sieg geführt. Der andere Owner sollte sich langsam Gedanken machen, wie er seine Aufstellung für die nächste Runde aufpeppt, denn so geht man nicht in die Saison!
 
-Max hat gegen Lars gewonnen und mit 101.90 zu 88.35 die Oberhand behalten. Derrick Henry hat mal wieder gezeigt, warum er der King ist, während Lars mit seinen Spielern so wenig Glück hatte, dass man meinen könnte, er hätte einen Fluch auf sich liegen. Wenn Lars nicht bald die Kurve kriegt, könnte es eng werden für ihn in dieser Liga.
+Maxi hat mit einem klaren 95.12 zu 80.05 gegen Timo gezeigt, dass er die anderen Owner nicht auf die leichte Schulter nehmen sollte. Christian McCaffrey hat das Mittelfeld dominiert, während Timo einfach nicht aus dem Quark kam. Vielleicht sollte Timo seine Spieler mal daran erinnern, dass man Punkte auch erzielen kann, ohne nur zuzusehen!
 
-Am Ende des Tages haben wir jetzt schon erste Eindrücke von den Stärken und Schwächen der Owner. Wer wird sich in der nächsten Woche behaupten und wer wird auf dem Weg zur Meisterschaft noch stolpern? Die Spannung steigt!
+Und schließlich hat Lukas mit einem souveränen 99.83 zu 85.12 gegen Niko gewonnen. Der MVP des Spiels war natürlich Derrick Henry, der die Verteidigung von Niko wie ein heißes Messer durch die Butter durchbrach. Niko wird sich fragen, ob seine Spieler noch auf dem Feld sind oder ob sie sich lieber einen Kaffee gönnen, während Lukas mit einem breiten Grinsen nach dem nächsten Sieg strebt.
+
+Die erste Woche hat bereits für einige Überraschungen gesorgt, und der Druck wächst. Wer wird der nächste sein, der in der kommenden Woche den Platz auf dem Siegertreppchen betritt?
