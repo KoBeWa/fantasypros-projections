@@ -1,16 +1,14 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-08-04T09:22:20.435Z"
+generated: "2026-08-11T07:46:49.839Z"
 ---
 
-Die Saison 2026 im Tim Tebow Tournament hat endlich begonnen und die Owner sind heiß darauf, ihre Gegner zu dominieren! Es war eine spannende erste Woche, in der die ersten Weichen für die Meisterschaft gestellt wurden.
+Die Saison 2026 im Tim Tebow Tournament hat endlich begonnen und die Owner sind bereit, sich gegenseitig den Kopf abzureißen. Wer wird sich in dieser ersten Woche als die wahren Champions herausstellen und wer wird sich schon früh im Schlamassel wiederfinden?
 
-Benni hat Ritz in einem packenden Duell mit 105.32 zu 98.76 besiegt. Während Ritz sich auf seine Stars verlassen hat, war es letztendlich Benni, der mit einem überragenden Auftritt von Patrick Mahomes den Unterschied machte. Ritz kann sich jetzt fragen, ob sein Spielplan vielleicht ein paar mehr Punkte hätte abwerfen können – schließlich ist der Saisonstart kein Grund, sich schon mit dem nächsten Urlaub zu beschäftigen.
+Benni hat Ritz mit einem soliden 120 zu 98 geschlagen, und das lag vor allem an der überragenden Leistung von Patrick Mahomes, der die gegnerische Verteidigung regelrecht schwindelig spielte. Ritz hingegen wird sich fragen, ob sein Team wirklich die richtige Wahl war, denn selbst ein starker Auftritt von Justin Jefferson konnte nicht verhindern, dass er diese Woche den Kürzeren zog. Vielleicht sollte er mal einen Blick in die Glaskugel werfen, bevor er seine nächste Aufstellung macht.
 
-Simi hat sich gegen Felix mit 88.55 zu 72.89 durchgesetzt und damit Felix' Hoffnungen auf einen Traumstart im Keim erstickt. Simi konnte sich auf die solide Leistung von Derrick Henry verlassen, während Felix anscheinend vergessen hat, dass man auch Punkte erzielen muss, um zu gewinnen. Wenn Felix nicht aufpasst, könnte die nächste Woche schon nach einem Comeback für die Nachbarn riechen.
+Simi hat es mit einem beeindruckenden 135 zu 112 gegen Lars geschafft und lässt damit keinen Zweifel daran, dass er in dieser Saison ganz oben mitmischen will. Jalen Hurts und Tyreek Hill haben gemeinsam so viel Feuer entfacht, dass Lars' Defense einfach nicht mithalten konnte. Lars hingegen sollte sich Sorgen machen, dass sein Team nicht so recht aus dem Quark kommt – vielleicht liegt es daran, dass seine Running Backs mehr mit dem Versteckspiel als mit dem Punkten beschäftigt sind.
 
-Maxi hat sich mit einem klaren 112.47 zu 87.14 gegen Lukas durchgesetzt und dabei ordentlich Eindruck hinterlassen. Mit einer starken Vorstellung von A.J. Brown und einem beeindruckenden Auftritt von Justin Jefferson hat Maxi gezeigt, dass er in dieser Saison nicht nur mitspielen, sondern auch dominieren will. Lukas hingegen wird sich fragen, ob er seine Aufstellung noch einmal überdenken muss oder ob es einfach nur die erste Woche war – Spoiler: es war nicht die erste Woche.
+Dann haben wir noch die Begegnung zwischen Max und Tom, wo Max mit 102 zu 90 den Sieg für sich beanspruchen konnte. Derrick Henry war der Star des Spiels und hat Tom’s Defense so oft überrannt, dass sie wahrscheinlich nach einem neuen Job als Verkehrspolizisten suchen sollten. Tom wird sich fragen, ob das nächste Mal ein bisschen mehr Unterstützung von seinen Wide Receivern nötig ist, denn sonst könnte es noch ein harter Weg bis zum nächsten Sieg werden.
 
-In dem Duell zwischen Tim und Chris ging es richtig zur Sache, als Tim mit 95.21 zu 91.34 triumphierte. Es war ein nervenaufreibendes Match, das bis zur letzten Minute spannend blieb, aber Tim konnte sich auf die brillante Leistung von Josh Allen verlassen, während Chris sich über ein paar schwache Punkte seiner Spieler ärgern musste. Wenn Chris nicht bald einen Zahn zulegt, könnte Tim bald die ganze Liga überholen. 
-
-Die erste Woche hat uns bereits einige heiße Duelle und spannende Wendungen beschert – die Liga ist bereit für mehr Action!
+Die erste Woche hat bereits gezeigt, dass hier jeder Punkt zählt und die Owner alles geben müssen, um in der Tabelle nach oben zu klettern. Wer wird sich in der nächsten Woche besser aufstellen können? Die Spannung bleibt hoch!
