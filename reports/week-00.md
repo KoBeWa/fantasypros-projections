@@ -1,14 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-08-11T07:46:49.839Z"
+generated: "2026-08-18T07:20:57.021Z"
 ---
 
-Die Saison 2026 im Tim Tebow Tournament hat endlich begonnen und die Owner sind bereit, sich gegenseitig den Kopf abzureißen. Wer wird sich in dieser ersten Woche als die wahren Champions herausstellen und wer wird sich schon früh im Schlamassel wiederfinden?
+Die Saison 2026 im Tim Tebow Tournament hat endlich begonnen und die Owner haben sich gleich zu Saisonbeginn ordentlich ins Zeug gelegt. Es war ein spannender Auftakt, der schon jetzt die Weichen für die nächsten Wochen stellen könnte.
 
-Benni hat Ritz mit einem soliden 120 zu 98 geschlagen, und das lag vor allem an der überragenden Leistung von Patrick Mahomes, der die gegnerische Verteidigung regelrecht schwindelig spielte. Ritz hingegen wird sich fragen, ob sein Team wirklich die richtige Wahl war, denn selbst ein starker Auftritt von Justin Jefferson konnte nicht verhindern, dass er diese Woche den Kürzeren zog. Vielleicht sollte er mal einen Blick in die Glaskugel werfen, bevor er seine nächste Aufstellung macht.
+Benni hat Ritz mit 105.34 zu 89.76 richtig schön die Grenzen aufgezeigt. Während Benni sich auf die starke Vorstellung von Patrick Mahomes verlassen konnte, sah Ritz zu, wie sein Team wie ein schüchterner Schüler bei der ersten Präsentation versagte. Vielleicht sollte Ritz seine Aufstellung besser im Unterricht üben!
 
-Simi hat es mit einem beeindruckenden 135 zu 112 gegen Lars geschafft und lässt damit keinen Zweifel daran, dass er in dieser Saison ganz oben mitmischen will. Jalen Hurts und Tyreek Hill haben gemeinsam so viel Feuer entfacht, dass Lars' Defense einfach nicht mithalten konnte. Lars hingegen sollte sich Sorgen machen, dass sein Team nicht so recht aus dem Quark kommt – vielleicht liegt es daran, dass seine Running Backs mehr mit dem Versteckspiel als mit dem Punkten beschäftigt sind.
+Simi ließ sich von der Konkurrenz nicht lumpen und besiegte Tim mit 98.44 zu 87.12. Simi’s Geheimwaffe, A.J. Brown, war nicht nur der Hauptdarsteller, sondern auch der Grund, warum Tim am Ende mit so viel Frust auf dem Sofa landete. Tim sollte vielleicht mal nach dem geheimen Trainingslager von Simi fragen – die haben da anscheinend die richtige Strategie!
 
-Dann haben wir noch die Begegnung zwischen Max und Tom, wo Max mit 102 zu 90 den Sieg für sich beanspruchen konnte. Derrick Henry war der Star des Spiels und hat Tom’s Defense so oft überrannt, dass sie wahrscheinlich nach einem neuen Job als Verkehrspolizisten suchen sollten. Tom wird sich fragen, ob das nächste Mal ein bisschen mehr Unterstützung von seinen Wide Receivern nötig ist, denn sonst könnte es noch ein harter Weg bis zum nächsten Sieg werden.
+Max hat sich gegen Alex mit 112.67 zu 94.55 durchgesetzt und dabei eindrucksvoll demonstriert, dass seine Spieler keine Angst vor dem Rampenlicht haben. Josh Allen war der große Held auf dem Feld und ließ Alex das Gefühl haben, dass seine Aufstellung eher ein Witz war. Vielleicht sollte Alex mal sein Lineup auf den Prüfstand stellen – oder einfach einen neuen Glücksbringer besorgen!
 
-Die erste Woche hat bereits gezeigt, dass hier jeder Punkt zählt und die Owner alles geben müssen, um in der Tabelle nach oben zu klettern. Wer wird sich in der nächsten Woche besser aufstellen können? Die Spannung bleibt hoch!
+Und schließlich hat Chris mit einem knappen 91.25 zu 90.40 gegen Leon gewonnen, sodass es so spannend war, dass selbst die Statistiken ein bisschen geschwitzt haben. Chris’ Justin Jefferson war der entscheidende Faktor, während Leon sich fragte, wie sein Team so nah, aber doch so weit von einem Sieg entfernt sein konnte. Vielleicht sollte Leon sich einen Trainer angeln, der ihn auf das nächste Level bringt – oder einfach mehr Glück haben!
+
+Ein aufregender Saisonstart, der bereits vielversprechende Geschichten verspricht. Jetzt heißt es, die nächsten Wochen nicht nachzulassen, denn die Konkurrenz schläft nie!
