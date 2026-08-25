@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-08-18T07:20:57.021Z"
+generated: "2026-08-25T07:26:26.673Z"
 ---
 
-Die Saison 2026 im Tim Tebow Tournament hat endlich begonnen und die Owner haben sich gleich zu Saisonbeginn ordentlich ins Zeug gelegt. Es war ein spannender Auftakt, der schon jetzt die Weichen für die nächsten Wochen stellen könnte.
+Die Woche 0 des Tim Tebow Tournament war ein echter Knaller! Die Owner zeigten, dass sie bereit sind, ihre Gegner in den Boden zu stampfen – oder zumindest einige witzige Ausreden parat zu haben.
 
-Benni hat Ritz mit 105.34 zu 89.76 richtig schön die Grenzen aufgezeigt. Während Benni sich auf die starke Vorstellung von Patrick Mahomes verlassen konnte, sah Ritz zu, wie sein Team wie ein schüchterner Schüler bei der ersten Präsentation versagte. Vielleicht sollte Ritz seine Aufstellung besser im Unterricht üben!
+Benni setzte sich gegen Ritz durch und schickte ihn mit einem 102.34 zu 89.76 nach Hause. Mit einem starken Auftritt von Jalen Hurts, der den Ball durch die Luft und über den Boden flog, und einer soliden Leistung von Tyreek Hill hat Benni seinen Sieg klar gemacht. Ritz wird sich fragen, ob er nicht doch besser auf seinen Kicker hätte setzen sollen – das hätte ihm vielleicht den einen oder anderen Punkt gerettet.
 
-Simi ließ sich von der Konkurrenz nicht lumpen und besiegte Tim mit 98.44 zu 87.12. Simi’s Geheimwaffe, A.J. Brown, war nicht nur der Hauptdarsteller, sondern auch der Grund, warum Tim am Ende mit so viel Frust auf dem Sofa landete. Tim sollte vielleicht mal nach dem geheimen Trainingslager von Simi fragen – die haben da anscheinend die richtige Strategie!
+Simi ließ sich von Dimi nicht aufhalten und feierte mit einem 115.24 zu 92.50 ein beeindruckendes Debüt. Justin Jefferson und Austin Ekeler waren die Stars des Abends, während Dimi’s Team mehr Fragen als Antworten hinterließ. Vielleicht sollte Dimi sich mal einen Strategie-Tag mit Simi gönnen, denn der sieht aus, als könnte er die Liga im Alleingang rocken.
 
-Max hat sich gegen Alex mit 112.67 zu 94.55 durchgesetzt und dabei eindrucksvoll demonstriert, dass seine Spieler keine Angst vor dem Rampenlicht haben. Josh Allen war der große Held auf dem Feld und ließ Alex das Gefühl haben, dass seine Aufstellung eher ein Witz war. Vielleicht sollte Alex mal sein Lineup auf den Prüfstand stellen – oder einfach einen neuen Glücksbringer besorgen!
+Maxi konnte sich gegen Timo mit einem 98.56 zu 85.12 durchsetzen. Der Superstar Patrick Mahomes führte Maxi zum Sieg, während Timo seinem Team immer noch den "Wir haben noch Zeit"-Vibe verpasst hat. Aber hey, Timo, in der Fantasy-Welt zählt jeder Punkt – vielleicht mal die Wecker-App einschalten?
 
-Und schließlich hat Chris mit einem knappen 91.25 zu 90.40 gegen Leon gewonnen, sodass es so spannend war, dass selbst die Statistiken ein bisschen geschwitzt haben. Chris’ Justin Jefferson war der entscheidende Faktor, während Leon sich fragte, wie sein Team so nah, aber doch so weit von einem Sieg entfernt sein konnte. Vielleicht sollte Leon sich einen Trainer angeln, der ihn auf das nächste Level bringt – oder einfach mehr Glück haben!
+Schließlich ließ Lars keinen Zweifel daran, wer hier das Sagen hat, und fegte David mit 105.60 zu 77.80 vom Platz. Christian McCaffrey war der Motor, der Lars‘ Sieg antreibte, während David wohl den Kopf über seine Aufstellung schütteln wird. Vielleicht war es nicht die beste Idee, die Woche mit einem "Ich probier mal was Neues"-Ansatz zu beginnen – das könnte nach hinten losgehen!
 
-Ein aufregender Saisonstart, der bereits vielversprechende Geschichten verspricht. Jetzt heißt es, die nächsten Wochen nicht nachzulassen, denn die Konkurrenz schläft nie!
+Die Saison hat gerade erst begonnen, aber die Konkurrenz ist schon jetzt bereit, sich gegenseitig die Füße wegzuziehen. Wer wird als Erster auf die Schnauze fallen? Wir werden sehen!
