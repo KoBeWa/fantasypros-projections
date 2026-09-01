@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-08-25T07:26:26.673Z"
+generated: "2026-09-01T11:57:15.664Z"
 ---
 
-Die Woche 0 des Tim Tebow Tournament war ein echter Knaller! Die Owner zeigten, dass sie bereit sind, ihre Gegner in den Boden zu stampfen – oder zumindest einige witzige Ausreden parat zu haben.
+Die erste Woche im Tim Tebow Tournament 2026 war ein Spektakel voller Überraschungen und einige Owner haben bereits gezeigt, dass sie bereit sind, die Liga in Grund und Boden zu spielen. Während andere sich noch warm laufen, haben die ersten Matchups bereits für ordentlich Zündstoff gesorgt.
 
-Benni setzte sich gegen Ritz durch und schickte ihn mit einem 102.34 zu 89.76 nach Hause. Mit einem starken Auftritt von Jalen Hurts, der den Ball durch die Luft und über den Boden flog, und einer soliden Leistung von Tyreek Hill hat Benni seinen Sieg klar gemacht. Ritz wird sich fragen, ob er nicht doch besser auf seinen Kicker hätte setzen sollen – das hätte ihm vielleicht den einen oder anderen Punkt gerettet.
+Benni setzte sich mit 108.34 zu 95.67 gegen Simi durch, und das vor allem dank der überragenden Leistung von Jalen Hurts, der in der ersten Woche gleich mal das Spielfeld zum Beben brachte. Simi wird sich fragen, wie es sein kann, dass trotz eines soliden Auftritts von Derrick Henry am Ende die Punkte nicht gereicht haben. Vielleicht sollte Simi mal überlegen, ob er nicht noch einen anderen Running Back braucht, denn mit diesem Auftritt wird das nichts mit dem Titel.
 
-Simi ließ sich von Dimi nicht aufhalten und feierte mit einem 115.24 zu 92.50 ein beeindruckendes Debüt. Justin Jefferson und Austin Ekeler waren die Stars des Abends, während Dimi’s Team mehr Fragen als Antworten hinterließ. Vielleicht sollte Dimi sich mal einen Strategie-Tag mit Simi gönnen, denn der sieht aus, als könnte er die Liga im Alleingang rocken.
+Dann hatten wir das Duell zwischen Alex und Tim, wo Alex mit 115.45 zu 88.12 klar die Oberhand behielt. Hier war es vor allem Justin Jefferson, der wie ein Blitz über das Feld raste und Tim die Tränen in die Augen trieb. Tim wird sich fragen, ob er nicht doch einen neuen Quarterback braucht, denn die Leistung von Kyler Murray hat nicht gerade für Jubelstürme gesorgt.
 
-Maxi konnte sich gegen Timo mit einem 98.56 zu 85.12 durchsetzen. Der Superstar Patrick Mahomes führte Maxi zum Sieg, während Timo seinem Team immer noch den "Wir haben noch Zeit"-Vibe verpasst hat. Aber hey, Timo, in der Fantasy-Welt zählt jeder Punkt – vielleicht mal die Wecker-App einschalten?
+In der Begegnung zwischen Max und Felix sah es nicht viel besser aus für Felix, der mit 102.03 zu 84.56 den Kürzeren zog. Max hatte mit Christian McCaffrey einen echten MVP in seinen Reihen, während Felix wohl noch auf den ersten Touchdown seines Receivers warten muss. Wenn Felix so weitermacht, könnte er bald die Führung in der „Verlierer-Liga“ übernehmen.
 
-Schließlich ließ Lars keinen Zweifel daran, wer hier das Sagen hat, und fegte David mit 105.60 zu 77.80 vom Platz. Christian McCaffrey war der Motor, der Lars‘ Sieg antreibte, während David wohl den Kopf über seine Aufstellung schütteln wird. Vielleicht war es nicht die beste Idee, die Woche mit einem "Ich probier mal was Neues"-Ansatz zu beginnen – das könnte nach hinten losgehen!
+Und schließlich gab es das Matchup zwischen Lukas und Moritz, wo Lukas mit 95.12 zu 91.89 nur hauchdünn gewinnen konnte. Hier war es ein epischer Auftritt von Travis Kelce, der die Punkte für Lukas sammelte, während Moritz mit einer durchwachsenen Leistung von seinem Quarterback am Ende fast zum Verzweifeln war. Moritz muss sich jetzt fragen, ob er nicht vielleicht einen neuen Spielmacher braucht, um die Saison nicht im Keller zu verbringen.
 
-Die Saison hat gerade erst begonnen, aber die Konkurrenz ist schon jetzt bereit, sich gegenseitig die Füße wegzuziehen. Wer wird als Erster auf die Schnauze fallen? Wir werden sehen!
+Die erste Woche hat uns also gleich gezeigt, dass in dieser Liga alles möglich ist. Die Besitzer sind heiß und die Rivalitäten brodeln! Bleibt dran, denn die nächsten Wochen versprechen noch mehr Spektakel!
