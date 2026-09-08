@@ -1,16 +1,16 @@
 ---
 title: "Week 0 – Weekly Report"
-generated: "2026-09-01T11:57:15.664Z"
+generated: "2026-09-08T11:39:17.567Z"
 ---
 
-Die erste Woche im Tim Tebow Tournament 2026 war ein Spektakel voller Überraschungen und einige Owner haben bereits gezeigt, dass sie bereit sind, die Liga in Grund und Boden zu spielen. Während andere sich noch warm laufen, haben die ersten Matchups bereits für ordentlich Zündstoff gesorgt.
+Die neue Saison im Tim Tebow Tournament hat endlich begonnen und die Owner waren bereit, sich gegenseitig die Hölle heiß zu machen. Woche 0 ist vorbei und die ersten Ergebnisse zeigen schon, wer das Sagen hat und wer besser gleich den Rückzug antreten sollte.
 
-Benni setzte sich mit 108.34 zu 95.67 gegen Simi durch, und das vor allem dank der überragenden Leistung von Jalen Hurts, der in der ersten Woche gleich mal das Spielfeld zum Beben brachte. Simi wird sich fragen, wie es sein kann, dass trotz eines soliden Auftritts von Derrick Henry am Ende die Punkte nicht gereicht haben. Vielleicht sollte Simi mal überlegen, ob er nicht noch einen anderen Running Back braucht, denn mit diesem Auftritt wird das nichts mit dem Titel.
+Benni hat Ritz mit einem knappen 101.23 zu 98.76 besiegt – ein echter Krimi, bei dem Justin Herbert die Zügel in der Hand hielt und Ritz’ Hoffnung auf einen Sieg in der letzten Minute zerplatzen ließ. Vielleicht sollte Ritz über einen neuen Quarterback nachdenken, denn wenn er weiter so spielt, wird er bald mehr Zeit mit dem Kaffeekochen verbringen als mit dem Aufstellen seines Teams.
 
-Dann hatten wir das Duell zwischen Alex und Tim, wo Alex mit 115.45 zu 88.12 klar die Oberhand behielt. Hier war es vor allem Justin Jefferson, der wie ein Blitz über das Feld raste und Tim die Tränen in die Augen trieb. Tim wird sich fragen, ob er nicht doch einen neuen Quarterback braucht, denn die Leistung von Kyler Murray hat nicht gerade für Jubelstürme gesorgt.
+Simi hat sich gegen Timo mit 115.45 zu 89.12 durchgesetzt und dabei die Punkte wie ein Wasserfall fließen lassen. Jalen Hurts und Tyreek Hill haben sich als die wahren Stars des Abends entpuppt und Timo sollte sich ernsthaft fragen, ob seine Spieler eher im Fitnessstudio oder auf dem Spielfeld trainieren. Wenn der Trend so weitergeht, könnte Timo bald den ersten Platz im "Bester-Schnaps-auf-dem-Couchpreis" abräumen.
 
-In der Begegnung zwischen Max und Felix sah es nicht viel besser aus für Felix, der mit 102.03 zu 84.56 den Kürzeren zog. Max hatte mit Christian McCaffrey einen echten MVP in seinen Reihen, während Felix wohl noch auf den ersten Touchdown seines Receivers warten muss. Wenn Felix so weitermacht, könnte er bald die Führung in der „Verlierer-Liga“ übernehmen.
+Micha hat Dominik mit einem klaren 120.08 zu 75.54 plattgemacht – eine wahre Machtdemonstration! Derrick Henry war der unaufhaltsame Zug, der Dominik gnadenlos überrollte. Wenn Micha weiterhin so aufspielt, könnte er bald den Titel „King of the Hill“ für sich beanspruchen, während Dominik sich fragen muss, ob seine Spieler in der letzten Saison noch einen Fuß auf den Boden bekommen haben.
 
-Und schließlich gab es das Matchup zwischen Lukas und Moritz, wo Lukas mit 95.12 zu 91.89 nur hauchdünn gewinnen konnte. Hier war es ein epischer Auftritt von Travis Kelce, der die Punkte für Lukas sammelte, während Moritz mit einer durchwachsenen Leistung von seinem Quarterback am Ende fast zum Verzweifeln war. Moritz muss sich jetzt fragen, ob er nicht vielleicht einen neuen Spielmacher braucht, um die Saison nicht im Keller zu verbringen.
+Schließlich hat Alex gegen Peter 105.67 zu 102.49 gewonnen und damit ein spannendes Duell geliefert, das bis zur letzten Sekunde auf der Kippe stand. Patrick Mahomes hat sich als der Hero des Abends erwiesen, während Peters Spieler eher wie Statisten in einem B-Movie wirkten. Wenn Peter nicht bald aufwacht, könnte er im nächsten Matchup schon wieder auf dem Weg nach Hause sein – und das nicht nur wegen seiner Punkte. 
 
-Die erste Woche hat uns also gleich gezeigt, dass in dieser Liga alles möglich ist. Die Besitzer sind heiß und die Rivalitäten brodeln! Bleibt dran, denn die nächsten Wochen versprechen noch mehr Spektakel!
+Die ersten Ergebnisse sind gefallen und es ist klar: Einige Owner haben ihre Hausaufgaben gemacht, während andere besser mal die Playbook-Lektüre wiederholen sollten. Auf zur nächsten Woche, da wird die Luft noch dicker!
